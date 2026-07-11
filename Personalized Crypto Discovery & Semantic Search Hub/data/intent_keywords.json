@@ -1,0 +1,29 @@
+{
+  "informational": [
+    "what",
+    "how",
+    "why",
+    "explain",
+    "news",
+    "today",
+    "work",
+    "guide"
+  ],
+  "transactional": [
+    "buy",
+    "purchase",
+    "invest",
+    "trade",
+    "low fee",
+    "best",
+    "tokens for"
+  ],
+  "exploratory": [
+    "trending",
+    "explore",
+    "discover",
+    "new",
+    "metaverse",
+    "gaming"
+  ]
+}

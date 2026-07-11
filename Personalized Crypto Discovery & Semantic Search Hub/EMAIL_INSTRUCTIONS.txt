@@ -1,0 +1,31 @@
+Company X — Crypto Discovery Hub
+Gmail-Safe Package Instructions
+================================
+
+WHY THIS PACKAGE IS DIFFERENT
+Gmail blocks ZIP files containing:
+  - PowerShell/shell scripts (.ps1, .bat, .sh)
+  - JavaScript files (.js)
+  - HTML pages with embedded scripts
+  - Binary ML model files (.pt, .faiss, .lgb, .joblib)
+
+This package contains ONLY Gmail-safe files (.py, .json, .md, .txt, .png).
+Trained models (artifacts/) are NOT included — you generate them locally.
+
+RECIPIENT SETUP (after unzipping)
+---------------------------------
+1. python scripts/restore_after_email.py
+2. python setup.py
+3. python run.py
+4. Open http://localhost:8081
+
+REPORTS
+-------
+- outputs/demo_report.md   (full demo report with chart links)
+- outputs/demo_report.txt  (plain text version)
+- outputs/*.png            (visual charts)
+
+TO CREATE THIS ZIP AGAIN
+------------------------
+python scripts/package_for_email.py
+→ produces Project-2-GmailSafe.zip in project root

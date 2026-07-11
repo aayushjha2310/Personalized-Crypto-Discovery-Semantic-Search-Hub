@@ -1,0 +1,142 @@
+[
+  {
+    "id": "n1",
+    "title": "Ethereum DeFi TVL Surges Past $50B Milestone",
+    "content": "Total value locked in Ethereum DeFi protocols reached a new high as lending and DEX volumes spike amid institutional interest.",
+    "source": "CryptoDaily",
+    "topic_hint": "DeFi"
+  },
+  {
+    "id": "n2",
+    "title": "SEC Proposes New Crypto Regulation Framework",
+    "content": "US regulators unveiled draft rules for digital asset custody and exchange compliance affecting token listings nationwide.",
+    "source": "RegWatch",
+    "topic_hint": "Regulation"
+  },
+  {
+    "id": "n3",
+    "title": "Metaverse Land Sales Hit Record in The Sandbox",
+    "content": "Virtual real estate NFTs in metaverse platforms saw record trading volume as brands enter the virtual world economy.",
+    "source": "MetaVerse Times",
+    "topic_hint": "Metaverse"
+  },
+  {
+    "id": "n4",
+    "title": "Solana Network Upgrade Cuts Transaction Fees",
+    "content": "Solana validators approved a protocol upgrade reducing fees for smart contract deployments on the high-throughput Layer 1.",
+    "source": "ChainNews",
+    "topic_hint": "Layer1"
+  },
+  {
+    "id": "n5",
+    "title": "NFT Market Shows Signs of Recovery in Q4",
+    "content": "Blue-chip NFT collections rebound as trading platforms introduce royalty enforcement and creator tools.",
+    "source": "NFT Insider",
+    "topic_hint": "NFTs"
+  },
+  {
+    "id": "n6",
+    "title": "Bitcoin ETF Inflows Drive Institutional Trading Volume",
+    "content": "Spot Bitcoin ETF products attracted billions in inflows reshaping crypto trading patterns among hedge funds.",
+    "source": "TradeWire",
+    "topic_hint": "Trading"
+  },
+  {
+    "id": "n7",
+    "title": "Aave Launches Cross-Chain Lending on Arbitrum",
+    "content": "Leading DeFi lending protocol expands to Layer 2 with lower gas fees attracting retail borrowers.",
+    "source": "DeFi Pulse",
+    "topic_hint": "DeFi"
+  },
+  {
+    "id": "n8",
+    "title": "EU MiCA Regulation Takes Effect for Stablecoins",
+    "content": "European crypto regulation MiCA now governs stablecoin issuance with strict reserve and disclosure requirements.",
+    "source": "RegWatch",
+    "topic_hint": "Regulation"
+  },
+  {
+    "id": "n9",
+    "title": "Axie Infinity Announces New Metaverse Game Mode",
+    "content": "Play-to-earn gaming studio unveils metaverse expansion with interoperable avatar NFTs across virtual worlds.",
+    "source": "GameChain",
+    "topic_hint": "Metaverse"
+  },
+  {
+    "id": "n10",
+    "title": "Avalanche Subnets Power Enterprise Blockchain Pilots",
+    "content": "Fortune 500 companies pilot private subnets on Avalanche for supply chain smart contract automation.",
+    "source": "Enterprise Ledger",
+    "topic_hint": "Layer1"
+  },
+  {
+    "id": "n11",
+    "title": "Uniswap v4 Hooks Spark DeFi Innovation Wave",
+    "content": "Customizable AMM hooks enable novel DeFi primitives including dynamic fees and on-chain limit orders.",
+    "source": "DeFi Pulse",
+    "topic_hint": "DeFi"
+  },
+  {
+    "id": "n12",
+    "title": "Polygon Partners with Gaming Studios for NFT Launch",
+    "content": "Low-fee Layer 2 network signs deals with major gaming publishers for in-game NFT marketplaces.",
+    "source": "NFT Insider",
+    "topic_hint": "NFTs"
+  },
+  {
+    "id": "n13",
+    "title": "Cosmos IBC Volume Breaks Monthly Record",
+    "content": "Inter-blockchain communication transfers between Cosmos zones surge as cross-chain DeFi gains traction.",
+    "source": "ChainNews",
+    "topic_hint": "Layer1"
+  },
+  {
+    "id": "n14",
+    "title": "Crypto Day Traders Shift to Layer 2 Tokens",
+    "content": "High-frequency traders migrate to Arbitrum and Optimism tokens amid lower fees and faster settlement.",
+    "source": "TradeWire",
+    "topic_hint": "Trading"
+  },
+  {
+    "id": "n15",
+    "title": "Decentraland Hosts Virtual Fashion Week Event",
+    "content": "Trending metaverse coin MANA rallied as luxury brands showcased digital wearables in a virtual world event.",
+    "source": "MetaVerse Times",
+    "topic_hint": "Metaverse"
+  },
+  {
+    "id": "n16",
+    "title": "Chainlink Oracles Integrate Real-World Asset Feeds",
+    "content": "DeFi protocols adopt Chainlink price feeds for tokenized treasury bills and commodity-backed assets.",
+    "source": "DeFi Pulse",
+    "topic_hint": "DeFi"
+  },
+  {
+    "id": "n17",
+    "title": "India Drafts Crypto Tax Compliance Guidelines",
+    "content": "New regulation requires exchanges to report transaction data with enhanced KYC for retail traders.",
+    "source": "RegWatch",
+    "topic_hint": "Regulation"
+  },
+  {
+    "id": "n18",
+    "title": "NEAR Protocol Hackathon Yields 200 Smart Contract dApps",
+    "content": "Developer-friendly Layer 1 attracts builders focusing on low-fee smart contract deployments.",
+    "source": "ChainNews",
+    "topic_hint": "Layer1"
+  },
+  {
+    "id": "n19",
+    "title": "OpenSea Expands NFT Curation for Digital Art",
+    "content": "NFT marketplace introduces verified creator collections driving renewed collector interest.",
+    "source": "NFT Insider",
+    "topic_hint": "NFTs"
+  },
+  {
+    "id": "n20",
+    "title": "Altcoin Rotation Strategy Gains Among Swing Traders",
+    "content": "Trading desks rotate from Bitcoin into high-beta Layer 1 and metaverse tokens during risk-on sessions.",
+    "source": "TradeWire",
+    "topic_hint": "Trading"
+  }
+]

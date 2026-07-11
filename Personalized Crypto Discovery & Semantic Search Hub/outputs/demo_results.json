@@ -1,0 +1,1964 @@
+{
+  "timestamp": "2026-07-12 01:01:44",
+  "health": {
+    "status": "healthy",
+    "search_ready": true,
+    "recommender_ready": true
+  },
+  "pipeline": {
+    "status": "ready",
+    "components": {
+      "semantic_search": "BERT (PyTorch) + FAISS",
+      "sparse_search": "TF-IDF",
+      "hybrid_fusion": "65% dense + 35% sparse",
+      "learning_to_rank": "LambdaMART (LightGBM)",
+      "intent_classification": "Decision Tree",
+      "entity_extraction": "spaCy NER + Crypto Dictionary",
+      "topic_modeling": "LDA (gensim)",
+      "recommendations": "Two-Tower (PyTorch)"
+    },
+    "artifacts": {
+      "faiss_index": true,
+      "bert_embeddings": true,
+      "tfidf_retriever": true,
+      "intent_classifier": true,
+      "lda_model": true,
+      "ltr_ranker": true,
+      "two_tower_model": true
+    }
+  },
+  "searches": {
+    "low fee Layer 1 tokens for smart contracts": {
+      "query": "low fee Layer 1 tokens for smart contracts",
+      "intent": {
+        "intent": "transactional",
+        "confidence": 1.0,
+        "routing": "token_trade_pipeline",
+        "probabilities": {
+          "exploratory": 0.0,
+          "informational": 0.0,
+          "transactional": 1.0
+        }
+      },
+      "entities": {
+        "tokens": [],
+        "protocols": [],
+        "categories": [
+          "layer1"
+        ],
+        "spacy_entities": [
+          {
+            "text": "Layer 1",
+            "label": "LAW"
+          }
+        ]
+      },
+      "query_topic": {
+        "topic_id": 1,
+        "topic_label": "NFTs",
+        "confidence": 0.6448
+      },
+      "results": [
+        {
+          "id": "ada",
+          "type": "token",
+          "scores": {
+            "dense": 0.8374,
+            "sparse": 0.2795,
+            "hybrid": 0.6421,
+            "ltr": -0.4974621107584589
+          },
+          "data": {
+            "id": "ada",
+            "symbol": "ADA",
+            "name": "Cardano",
+            "category": "Layer1",
+            "description": "Cardano is a research-driven proof-of-stake Layer 1 blockchain for smart contracts with academic rigor.",
+            "tags": [
+              "layer1",
+              "proof-of-stake",
+              "smart-contracts"
+            ],
+            "fee_tier": "low",
+            "market_cap_rank": 8
+          }
+        },
+        {
+          "id": "b6",
+          "type": "bundle",
+          "scores": {
+            "dense": 0.7085,
+            "sparse": 0.0,
+            "hybrid": 0.4605,
+            "ltr": -0.5303132272285263
+          },
+          "data": {
+            "id": "b6",
+            "name": "Crypto Kuber Meme Pack",
+            "description": "High-risk meme coin bundle with DOGE and SHIB for speculative trading.",
+            "token_ids": [
+              "doge",
+              "shib"
+            ],
+            "risk_level": "high",
+            "theme": "Meme"
+          }
+        },
+        {
+          "id": "b4",
+          "type": "bundle",
+          "scores": {
+            "dense": 0.6806,
+            "sparse": 0.0,
+            "hybrid": 0.4424,
+            "ltr": -0.5303132272285263
+          },
+          "data": {
+            "id": "b4",
+            "name": "Crypto Kuber Blue Chip Pack",
+            "description": "Conservative bundle of BTC, ETH, and XRP for long-term portfolio stability.",
+            "token_ids": [
+              "btc",
+              "eth",
+              "xrp"
+            ],
+            "risk_level": "low",
+            "theme": "BlueChip"
+          }
+        },
+        {
+          "id": "atom",
+          "type": "token",
+          "scores": {
+            "dense": 0.8106,
+            "sparse": 0.0,
+            "hybrid": 0.5269,
+            "ltr": -0.5700076276858116
+          },
+          "data": {
+            "id": "atom",
+            "symbol": "ATOM",
+            "name": "Cosmos",
+            "category": "Layer0",
+            "description": "Cosmos provides the Inter-Blockchain Communication protocol for sovereign connected blockchains.",
+            "tags": [
+              "interoperability",
+              "ibc",
+              "layer0"
+            ],
+            "fee_tier": "low",
+            "market_cap_rank": 25
+          }
+        },
+        {
+          "id": "near",
+          "type": "token",
+          "scores": {
+            "dense": 0.7725,
+            "sparse": 0.3955,
+            "hybrid": 0.6406,
+            "ltr": -0.5700076276858116
+          },
+          "data": {
+            "id": "near",
+            "symbol": "NEAR",
+            "name": "NEAR Protocol",
+            "category": "Layer1",
+            "description": "NEAR Protocol is a sharded proof-of-stake blockchain designed for developer-friendly smart contracts.",
+            "tags": [
+              "layer1",
+              "sharding",
+              "smart-contracts",
+              "low-fee"
+            ],
+            "fee_tier": "low",
+            "market_cap_rank": 22
+          }
+        }
+      ],
+      "total_candidates": 17
+    },
+    "trending metaverse coins": {
+      "query": "trending metaverse coins",
+      "intent": {
+        "intent": "exploratory",
+        "confidence": 1.0,
+        "routing": "hybrid_search",
+        "probabilities": {
+          "exploratory": 1.0,
+          "informational": 0.0,
+          "transactional": 0.0
+        }
+      },
+      "entities": {
+        "tokens": [
+          "sand",
+          "axs",
+          "mana",
+          "shib"
+        ],
+        "protocols": [],
+        "categories": [
+          "metaverse"
+        ],
+        "spacy_entities": []
+      },
+      "query_topic": {
+        "topic_id": 2,
+        "topic_label": "Regulation",
+        "confidence": 0.9143
+      },
+      "results": [
+        {
+          "id": "shib",
+          "type": "token",
+          "scores": {
+            "dense": 0.9841,
+            "sparse": 0.2669,
+            "hybrid": 0.7331,
+            "ltr": 3.0372825339744756
+          },
+          "data": {
+            "id": "shib",
+            "symbol": "SHIB",
+            "name": "Shiba Inu",
+            "category": "Meme",
+            "description": "Shiba Inu is a trending meme token with an ecosystem including DEX and metaverse initiatives.",
+            "tags": [
+              "meme",
+              "community",
+              "metaverse"
+            ],
+            "fee_tier": "low",
+            "market_cap_rank": 16
+          }
+        },
+        {
+          "id": "axs",
+          "type": "token",
+          "scores": {
+            "dense": 0.8978,
+            "sparse": 0.1307,
+            "hybrid": 0.6293,
+            "ltr": 2.9283638699132553
+          },
+          "data": {
+            "id": "axs",
+            "symbol": "AXS",
+            "name": "Axie Infinity",
+            "category": "Gaming",
+            "description": "Axie Infinity is a play-to-earn gaming token in the metaverse and NFT gaming ecosystem.",
+            "tags": [
+              "gaming",
+              "metaverse",
+              "play-to-earn",
+              "nft"
+            ],
+            "fee_tier": "low",
+            "market_cap_rank": 110
+          }
+        },
+        {
+          "id": "sand",
+          "type": "token",
+          "scores": {
+            "dense": 0.0,
+            "sparse": 0.1318,
+            "hybrid": 0.0461,
+            "ltr": 2.1321599413926196
+          },
+          "data": {
+            "id": "sand",
+            "symbol": "SAND",
+            "name": "The Sandbox",
+            "category": "Metaverse",
+            "description": "The Sandbox is a virtual world metaverse platform where users buy land NFTs and create gaming experiences.",
+            "tags": [
+              "metaverse",
+              "gaming",
+              "nft",
+              "virtual-land"
+            ],
+            "fee_tier": "medium",
+            "market_cap_rank": 80
+          }
+        },
+        {
+          "id": "mana",
+          "type": "token",
+          "scores": {
+            "dense": 0.9398,
+            "sparse": 0.4019,
+            "hybrid": 0.7516,
+            "ltr": 2.098792244476823
+          },
+          "data": {
+            "id": "mana",
+            "symbol": "MANA",
+            "name": "Decentraland",
+            "category": "Metaverse",
+            "description": "Decentraland is a trending metaverse coin powering a 3D virtual world with user-owned digital real estate.",
+            "tags": [
+              "metaverse",
+              "virtual-reality",
+              "nft",
+              "gaming"
+            ],
+            "fee_tier": "medium",
+            "market_cap_rank": 95
+          }
+        },
+        {
+          "id": "b2",
+          "type": "bundle",
+          "scores": {
+            "dense": 0.9516,
+            "sparse": 1.0,
+            "hybrid": 0.9685,
+            "ltr": -0.24717400449419122
+          },
+          "data": {
+            "id": "b2",
+            "name": "Crypto Kuber Metaverse Pack",
+            "description": "Trending metaverse coins bundle with SAND, MANA, and AXS for virtual world and gaming exposure.",
+            "token_ids": [
+              "sand",
+              "mana",
+              "axs"
+            ],
+            "risk_level": "high",
+            "theme": "Metaverse"
+          }
+        }
+      ],
+      "total_candidates": 17
+    },
+    "what is Ethereum DeFi TVL": {
+      "query": "what is Ethereum DeFi TVL",
+      "intent": {
+        "intent": "informational",
+        "confidence": 0.9667,
+        "routing": "news_and_education",
+        "probabilities": {
+          "exploratory": 0.0333,
+          "informational": 0.9667,
+          "transactional": 0.0
+        }
+      },
+      "entities": {
+        "tokens": [
+          "arb",
+          "link",
+          "op",
+          "uni",
+          "aave",
+          "avax",
+          "matic",
+          "eth"
+        ],
+        "protocols": [
+          "ethereum"
+        ],
+        "categories": [
+          "defi"
+        ],
+        "spacy_entities": [
+          {
+            "text": "TVL",
+            "label": "ORG"
+          }
+        ]
+      },
+      "query_topic": {
+        "topic_id": 5,
+        "topic_label": "Trading",
+        "confidence": 0.9362
+      },
+      "results": [
+        {
+          "id": "eth",
+          "type": "token",
+          "scores": {
+            "dense": 0.9248,
+            "sparse": 0.3012,
+            "hybrid": 0.7065,
+            "ltr": 3.078793653318706
+          },
+          "data": {
+            "id": "eth",
+            "symbol": "ETH",
+            "name": "Ethereum",
+            "category": "Layer1",
+            "description": "Ethereum is a smart contract platform enabling DeFi, NFTs, and decentralized applications with EVM compatibility.",
+            "tags": [
+              "layer1",
+              "smart-contracts",
+              "defi",
+              "evm"
+            ],
+            "fee_tier": "medium",
+            "market_cap_rank": 2
+          }
+        },
+        {
+          "id": "uni",
+          "type": "token",
+          "scores": {
+            "dense": 0.8403,
+            "sparse": 0.4935,
+            "hybrid": 0.7189,
+            "ltr": 3.0387598108169387
+          },
+          "data": {
+            "id": "uni",
+            "symbol": "UNI",
+            "name": "Uniswap",
+            "category": "DeFi",
+            "description": "Uniswap is a leading decentralized exchange protocol for automated market making on Ethereum.",
+            "tags": [
+              "defi",
+              "dex",
+              "ethereum",
+              "amm"
+            ],
+            "fee_tier": "variable",
+            "market_cap_rank": 20
+          }
+        },
+        {
+          "id": "link",
+          "type": "token",
+          "scores": {
+            "dense": 0.8035,
+            "sparse": 0.0625,
+            "hybrid": 0.5442,
+            "ltr": 3.018355156415117
+          },
+          "data": {
+            "id": "link",
+            "symbol": "LINK",
+            "name": "Chainlink",
+            "category": "Oracle",
+            "description": "Chainlink provides decentralized oracle infrastructure connecting smart contracts to real-world data feeds.",
+            "tags": [
+              "oracle",
+              "defi",
+              "infrastructure"
+            ],
+            "fee_tier": "n/a",
+            "market_cap_rank": 14
+          }
+        },
+        {
+          "id": "arb",
+          "type": "token",
+          "scores": {
+            "dense": 0.0,
+            "sparse": 0.3019,
+            "hybrid": 0.1056,
+            "ltr": 2.900377244315825
+          },
+          "data": {
+            "id": "arb",
+            "symbol": "ARB",
+            "name": "Arbitrum",
+            "category": "Layer2",
+            "description": "Arbitrum is an optimistic rollup Layer 2 scaling Ethereum with low fees for DeFi and smart contracts.",
+            "tags": [
+              "layer2",
+              "ethereum",
+              "rollup",
+              "low-fee",
+              "defi"
+            ],
+            "fee_tier": "low",
+            "market_cap_rank": 30
+          }
+        },
+        {
+          "id": "op",
+          "type": "token",
+          "scores": {
+            "dense": 0.0,
+            "sparse": 0.2666,
+            "hybrid": 0.0933,
+            "ltr": 2.900377244315825
+          },
+          "data": {
+            "id": "op",
+            "symbol": "OP",
+            "name": "Optimism",
+            "category": "Layer2",
+            "description": "Optimism scales Ethereum using optimistic rollups for cheaper smart contract execution.",
+            "tags": [
+              "layer2",
+              "ethereum",
+              "rollup",
+              "defi"
+            ],
+            "fee_tier": "low",
+            "market_cap_rank": 35
+          }
+        }
+      ],
+      "total_candidates": 18
+    },
+    "buy DeFi lending tokens": {
+      "query": "buy DeFi lending tokens",
+      "intent": {
+        "intent": "transactional",
+        "confidence": 1.0,
+        "routing": "token_trade_pipeline",
+        "probabilities": {
+          "exploratory": 0.0,
+          "informational": 0.0,
+          "transactional": 1.0
+        }
+      },
+      "entities": {
+        "tokens": [
+          "arb",
+          "link",
+          "op",
+          "aave",
+          "avax",
+          "uni",
+          "eth"
+        ],
+        "protocols": [],
+        "categories": [
+          "defi"
+        ],
+        "spacy_entities": [
+          {
+            "text": "DeFi",
+            "label": "ORG"
+          }
+        ]
+      },
+      "query_topic": {
+        "topic_id": 5,
+        "topic_label": "Trading",
+        "confidence": 0.9362
+      },
+      "results": [
+        {
+          "id": "uni",
+          "type": "token",
+          "scores": {
+            "dense": 0.9432,
+            "sparse": 0.1206,
+            "hybrid": 0.6553,
+            "ltr": 3.0818172252404175
+          },
+          "data": {
+            "id": "uni",
+            "symbol": "UNI",
+            "name": "Uniswap",
+            "category": "DeFi",
+            "description": "Uniswap is a leading decentralized exchange protocol for automated market making on Ethereum.",
+            "tags": [
+              "defi",
+              "dex",
+              "ethereum",
+              "amm"
+            ],
+            "fee_tier": "variable",
+            "market_cap_rank": 20
+          }
+        },
+        {
+          "id": "link",
+          "type": "token",
+          "scores": {
+            "dense": 0.959,
+            "sparse": 0.0,
+            "hybrid": 0.6233,
+            "ltr": 3.0803399483979543
+          },
+          "data": {
+            "id": "link",
+            "symbol": "LINK",
+            "name": "Chainlink",
+            "category": "Oracle",
+            "description": "Chainlink provides decentralized oracle infrastructure connecting smart contracts to real-world data feeds.",
+            "tags": [
+              "oracle",
+              "defi",
+              "infrastructure"
+            ],
+            "fee_tier": "n/a",
+            "market_cap_rank": 14
+          }
+        },
+        {
+          "id": "eth",
+          "type": "token",
+          "scores": {
+            "dense": 0.819,
+            "sparse": 0.1927,
+            "hybrid": 0.5998,
+            "ltr": 3.019453409088298
+          },
+          "data": {
+            "id": "eth",
+            "symbol": "ETH",
+            "name": "Ethereum",
+            "category": "Layer1",
+            "description": "Ethereum is a smart contract platform enabling DeFi, NFTs, and decentralized applications with EVM compatibility.",
+            "tags": [
+              "layer1",
+              "smart-contracts",
+              "defi",
+              "evm"
+            ],
+            "fee_tier": "medium",
+            "market_cap_rank": 2
+          }
+        },
+        {
+          "id": "avax",
+          "type": "token",
+          "scores": {
+            "dense": 0.7315,
+            "sparse": 0.186,
+            "hybrid": 0.5406,
+            "ltr": 2.9333377274306276
+          },
+          "data": {
+            "id": "avax",
+            "symbol": "AVAX",
+            "name": "Avalanche",
+            "category": "Layer1",
+            "description": "Avalanche offers sub-second finality and customizable subnets for enterprise and DeFi smart contract deployments.",
+            "tags": [
+              "layer1",
+              "smart-contracts",
+              "subnets",
+              "defi"
+            ],
+            "fee_tier": "low",
+            "market_cap_rank": 12
+          }
+        },
+        {
+          "id": "arb",
+          "type": "token",
+          "scores": {
+            "dense": 0.0,
+            "sparse": 0.1931,
+            "hybrid": 0.0676,
+            "ltr": 2.9058731883007614
+          },
+          "data": {
+            "id": "arb",
+            "symbol": "ARB",
+            "name": "Arbitrum",
+            "category": "Layer2",
+            "description": "Arbitrum is an optimistic rollup Layer 2 scaling Ethereum with low fees for DeFi and smart contracts.",
+            "tags": [
+              "layer2",
+              "ethereum",
+              "rollup",
+              "low-fee",
+              "defi"
+            ],
+            "fee_tier": "low",
+            "market_cap_rank": 30
+          }
+        }
+      ],
+      "total_candidates": 12
+    },
+    "crypto regulation news today": {
+      "query": "crypto regulation news today",
+      "intent": {
+        "intent": "informational",
+        "confidence": 0.9667,
+        "routing": "news_and_education",
+        "probabilities": {
+          "exploratory": 0.0333,
+          "informational": 0.9667,
+          "transactional": 0.0
+        }
+      },
+      "entities": {
+        "tokens": [],
+        "protocols": [],
+        "categories": [],
+        "spacy_entities": [
+          {
+            "text": "today",
+            "label": "DATE"
+          }
+        ]
+      },
+      "query_topic": {
+        "topic_id": 0,
+        "topic_label": "DeFi",
+        "confidence": 0.9103
+      },
+      "results": [
+        {
+          "id": "n2",
+          "type": "news",
+          "scores": {
+            "dense": 0.9152,
+            "sparse": 0.7769,
+            "hybrid": 0.8668,
+            "ltr": -0.24717400449419122
+          },
+          "data": {
+            "id": "n2",
+            "title": "SEC Proposes New Crypto Regulation Framework",
+            "content": "US regulators unveiled draft rules for digital asset custody and exchange compliance affecting token listings nationwide.",
+            "source": "RegWatch",
+            "topic_hint": "Regulation"
+          },
+          "topic": {
+            "topic_id": 5,
+            "topic_label": "Trading",
+            "confidence": 0.9907
+          }
+        },
+        {
+          "id": "n8",
+          "type": "news",
+          "scores": {
+            "dense": 0.9134,
+            "sparse": 1.0,
+            "hybrid": 0.9437,
+            "ltr": -0.24717400449419122
+          },
+          "data": {
+            "id": "n8",
+            "title": "EU MiCA Regulation Takes Effect for Stablecoins",
+            "content": "European crypto regulation MiCA now governs stablecoin issuance with strict reserve and disclosure requirements.",
+            "source": "RegWatch",
+            "topic_hint": "Regulation"
+          },
+          "topic": {
+            "topic_id": 0,
+            "topic_label": "DeFi",
+            "confidence": 0.9905
+          }
+        },
+        {
+          "id": "xrp",
+          "type": "token",
+          "scores": {
+            "dense": 0.9111,
+            "sparse": 0.0,
+            "hybrid": 0.5922,
+            "ltr": -0.47000938826521066
+          },
+          "data": {
+            "id": "xrp",
+            "symbol": "XRP",
+            "name": "Ripple",
+            "category": "Payments",
+            "description": "XRP facilitates fast cross-border payments and remittances for financial institutions.",
+            "tags": [
+              "payments",
+              "remittance",
+              "enterprise"
+            ],
+            "fee_tier": "low",
+            "market_cap_rank": 6
+          }
+        },
+        {
+          "id": "avax",
+          "type": "token",
+          "scores": {
+            "dense": 0.8898,
+            "sparse": 0.0,
+            "hybrid": 0.5783,
+            "ltr": -0.47000938826521066
+          },
+          "data": {
+            "id": "avax",
+            "symbol": "AVAX",
+            "name": "Avalanche",
+            "category": "Layer1",
+            "description": "Avalanche offers sub-second finality and customizable subnets for enterprise and DeFi smart contract deployments.",
+            "tags": [
+              "layer1",
+              "smart-contracts",
+              "subnets",
+              "defi"
+            ],
+            "fee_tier": "low",
+            "market_cap_rank": 12
+          }
+        },
+        {
+          "id": "n10",
+          "type": "news",
+          "scores": {
+            "dense": 0.9083,
+            "sparse": 0.0,
+            "hybrid": 0.5904,
+            "ltr": -0.4786365737170401
+          },
+          "data": {
+            "id": "n10",
+            "title": "Avalanche Subnets Power Enterprise Blockchain Pilots",
+            "content": "Fortune 500 companies pilot private subnets on Avalanche for supply chain smart contract automation.",
+            "source": "Enterprise Ledger",
+            "topic_hint": "Layer1"
+          },
+          "topic": {
+            "topic_id": 4,
+            "topic_label": "Metaverse",
+            "confidence": 0.9895
+          }
+        }
+      ],
+      "total_candidates": 14
+    }
+  },
+  "recommendations": {
+    "u1": {
+      "user_id": "u1",
+      "recommendations": [
+        {
+          "id": "near",
+          "type": "token",
+          "score": 0.8748,
+          "data": {
+            "id": "near",
+            "symbol": "NEAR",
+            "name": "NEAR Protocol",
+            "category": "Layer1",
+            "description": "NEAR Protocol is a sharded proof-of-stake blockchain designed for developer-friendly smart contracts.",
+            "tags": [
+              "layer1",
+              "sharding",
+              "smart-contracts",
+              "low-fee"
+            ],
+            "fee_tier": "low",
+            "market_cap_rank": 22
+          }
+        },
+        {
+          "id": "b3",
+          "type": "bundle",
+          "score": 0.5513,
+          "data": {
+            "id": "b3",
+            "name": "Crypto Kuber Layer 1 Pack",
+            "description": "Low-fee Layer 1 tokens for smart contracts: SOL, NEAR, AVAX, and ADA.",
+            "token_ids": [
+              "sol",
+              "near",
+              "avax",
+              "ada"
+            ],
+            "risk_level": "medium",
+            "theme": "Layer1"
+          }
+        },
+        {
+          "id": "btc",
+          "type": "token",
+          "score": 0.475,
+          "data": {
+            "id": "btc",
+            "symbol": "BTC",
+            "name": "Bitcoin",
+            "category": "Layer1",
+            "description": "Bitcoin is the original decentralized digital currency with proof-of-work consensus and store-of-value use case.",
+            "tags": [
+              "layer1",
+              "store-of-value",
+              "proof-of-work"
+            ],
+            "fee_tier": "medium",
+            "market_cap_rank": 1
+          }
+        },
+        {
+          "id": "sol",
+          "type": "token",
+          "score": 0.47,
+          "data": {
+            "id": "sol",
+            "symbol": "SOL",
+            "name": "Solana",
+            "category": "Layer1",
+            "description": "Solana is a high-throughput Layer 1 blockchain optimized for low-fee smart contracts and fast finality.",
+            "tags": [
+              "layer1",
+              "smart-contracts",
+              "low-fee",
+              "high-throughput"
+            ],
+            "fee_tier": "low",
+            "market_cap_rank": 5
+          }
+        },
+        {
+          "id": "ada",
+          "type": "token",
+          "score": 0.4652,
+          "data": {
+            "id": "ada",
+            "symbol": "ADA",
+            "name": "Cardano",
+            "category": "Layer1",
+            "description": "Cardano is a research-driven proof-of-stake Layer 1 blockchain for smart contracts with academic rigor.",
+            "tags": [
+              "layer1",
+              "proof-of-stake",
+              "smart-contracts"
+            ],
+            "fee_tier": "low",
+            "market_cap_rank": 8
+          }
+        },
+        {
+          "id": "n4",
+          "type": "news",
+          "score": 0.4579,
+          "data": {
+            "id": "n4",
+            "title": "Solana Network Upgrade Cuts Transaction Fees",
+            "content": "Solana validators approved a protocol upgrade reducing fees for smart contract deployments on the high-throughput Layer 1.",
+            "source": "ChainNews",
+            "topic_hint": "Layer1"
+          }
+        },
+        {
+          "id": "n13",
+          "type": "news",
+          "score": 0.4447,
+          "data": {
+            "id": "n13",
+            "title": "Cosmos IBC Volume Breaks Monthly Record",
+            "content": "Inter-blockchain communication transfers between Cosmos zones surge as cross-chain DeFi gains traction.",
+            "source": "ChainNews",
+            "topic_hint": "Layer1"
+          }
+        },
+        {
+          "id": "xrp",
+          "type": "token",
+          "score": 0.4263,
+          "data": {
+            "id": "xrp",
+            "symbol": "XRP",
+            "name": "Ripple",
+            "category": "Payments",
+            "description": "XRP facilitates fast cross-border payments and remittances for financial institutions.",
+            "tags": [
+              "payments",
+              "remittance",
+              "enterprise"
+            ],
+            "fee_tier": "low",
+            "market_cap_rank": 6
+          }
+        }
+      ]
+    },
+    "u2": {
+      "user_id": "u2",
+      "recommendations": [
+        {
+          "id": "b2",
+          "type": "bundle",
+          "score": 0.7818,
+          "data": {
+            "id": "b2",
+            "name": "Crypto Kuber Metaverse Pack",
+            "description": "Trending metaverse coins bundle with SAND, MANA, and AXS for virtual world and gaming exposure.",
+            "token_ids": [
+              "sand",
+              "mana",
+              "axs"
+            ],
+            "risk_level": "high",
+            "theme": "Metaverse"
+          }
+        },
+        {
+          "id": "b4",
+          "type": "bundle",
+          "score": 0.5058,
+          "data": {
+            "id": "b4",
+            "name": "Crypto Kuber Blue Chip Pack",
+            "description": "Conservative bundle of BTC, ETH, and XRP for long-term portfolio stability.",
+            "token_ids": [
+              "btc",
+              "eth",
+              "xrp"
+            ],
+            "risk_level": "low",
+            "theme": "BlueChip"
+          }
+        },
+        {
+          "id": "n3",
+          "type": "news",
+          "score": 0.308,
+          "data": {
+            "id": "n3",
+            "title": "Metaverse Land Sales Hit Record in The Sandbox",
+            "content": "Virtual real estate NFTs in metaverse platforms saw record trading volume as brands enter the virtual world economy.",
+            "source": "MetaVerse Times",
+            "topic_hint": "Metaverse"
+          }
+        },
+        {
+          "id": "dot",
+          "type": "token",
+          "score": 0.0571,
+          "data": {
+            "id": "dot",
+            "symbol": "DOT",
+            "name": "Polkadot",
+            "category": "Layer0",
+            "description": "Polkadot enables cross-chain interoperability connecting multiple blockchains through parachains.",
+            "tags": [
+              "interoperability",
+              "parachain",
+              "layer0"
+            ],
+            "fee_tier": "low",
+            "market_cap_rank": 11
+          }
+        },
+        {
+          "id": "n20",
+          "type": "news",
+          "score": 0.0336,
+          "data": {
+            "id": "n20",
+            "title": "Altcoin Rotation Strategy Gains Among Swing Traders",
+            "content": "Trading desks rotate from Bitcoin into high-beta Layer 1 and metaverse tokens during risk-on sessions.",
+            "source": "TradeWire",
+            "topic_hint": "Trading"
+          }
+        },
+        {
+          "id": "b3",
+          "type": "bundle",
+          "score": -0.0341,
+          "data": {
+            "id": "b3",
+            "name": "Crypto Kuber Layer 1 Pack",
+            "description": "Low-fee Layer 1 tokens for smart contracts: SOL, NEAR, AVAX, and ADA.",
+            "token_ids": [
+              "sol",
+              "near",
+              "avax",
+              "ada"
+            ],
+            "risk_level": "medium",
+            "theme": "Layer1"
+          }
+        },
+        {
+          "id": "atom",
+          "type": "token",
+          "score": -0.0844,
+          "data": {
+            "id": "atom",
+            "symbol": "ATOM",
+            "name": "Cosmos",
+            "category": "Layer0",
+            "description": "Cosmos provides the Inter-Blockchain Communication protocol for sovereign connected blockchains.",
+            "tags": [
+              "interoperability",
+              "ibc",
+              "layer0"
+            ],
+            "fee_tier": "low",
+            "market_cap_rank": 25
+          }
+        },
+        {
+          "id": "n14",
+          "type": "news",
+          "score": -0.1434,
+          "data": {
+            "id": "n14",
+            "title": "Crypto Day Traders Shift to Layer 2 Tokens",
+            "content": "High-frequency traders migrate to Arbitrum and Optimism tokens amid lower fees and faster settlement.",
+            "source": "TradeWire",
+            "topic_hint": "Trading"
+          }
+        }
+      ]
+    },
+    "u3": {
+      "user_id": "u3",
+      "recommendations": [
+        {
+          "id": "eth",
+          "type": "token",
+          "score": 0.3575,
+          "data": {
+            "id": "eth",
+            "symbol": "ETH",
+            "name": "Ethereum",
+            "category": "Layer1",
+            "description": "Ethereum is a smart contract platform enabling DeFi, NFTs, and decentralized applications with EVM compatibility.",
+            "tags": [
+              "layer1",
+              "smart-contracts",
+              "defi",
+              "evm"
+            ],
+            "fee_tier": "medium",
+            "market_cap_rank": 2
+          }
+        },
+        {
+          "id": "b2",
+          "type": "bundle",
+          "score": 0.2155,
+          "data": {
+            "id": "b2",
+            "name": "Crypto Kuber Metaverse Pack",
+            "description": "Trending metaverse coins bundle with SAND, MANA, and AXS for virtual world and gaming exposure.",
+            "token_ids": [
+              "sand",
+              "mana",
+              "axs"
+            ],
+            "risk_level": "high",
+            "theme": "Metaverse"
+          }
+        },
+        {
+          "id": "b3",
+          "type": "bundle",
+          "score": 0.0998,
+          "data": {
+            "id": "b3",
+            "name": "Crypto Kuber Layer 1 Pack",
+            "description": "Low-fee Layer 1 tokens for smart contracts: SOL, NEAR, AVAX, and ADA.",
+            "token_ids": [
+              "sol",
+              "near",
+              "avax",
+              "ada"
+            ],
+            "risk_level": "medium",
+            "theme": "Layer1"
+          }
+        },
+        {
+          "id": "near",
+          "type": "token",
+          "score": 0.021,
+          "data": {
+            "id": "near",
+            "symbol": "NEAR",
+            "name": "NEAR Protocol",
+            "category": "Layer1",
+            "description": "NEAR Protocol is a sharded proof-of-stake blockchain designed for developer-friendly smart contracts.",
+            "tags": [
+              "layer1",
+              "sharding",
+              "smart-contracts",
+              "low-fee"
+            ],
+            "fee_tier": "low",
+            "market_cap_rank": 22
+          }
+        },
+        {
+          "id": "sol",
+          "type": "token",
+          "score": 0.0056,
+          "data": {
+            "id": "sol",
+            "symbol": "SOL",
+            "name": "Solana",
+            "category": "Layer1",
+            "description": "Solana is a high-throughput Layer 1 blockchain optimized for low-fee smart contracts and fast finality.",
+            "tags": [
+              "layer1",
+              "smart-contracts",
+              "low-fee",
+              "high-throughput"
+            ],
+            "fee_tier": "low",
+            "market_cap_rank": 5
+          }
+        },
+        {
+          "id": "n3",
+          "type": "news",
+          "score": -0.0006,
+          "data": {
+            "id": "n3",
+            "title": "Metaverse Land Sales Hit Record in The Sandbox",
+            "content": "Virtual real estate NFTs in metaverse platforms saw record trading volume as brands enter the virtual world economy.",
+            "source": "MetaVerse Times",
+            "topic_hint": "Metaverse"
+          }
+        },
+        {
+          "id": "b4",
+          "type": "bundle",
+          "score": -0.0114,
+          "data": {
+            "id": "b4",
+            "name": "Crypto Kuber Blue Chip Pack",
+            "description": "Conservative bundle of BTC, ETH, and XRP for long-term portfolio stability.",
+            "token_ids": [
+              "btc",
+              "eth",
+              "xrp"
+            ],
+            "risk_level": "low",
+            "theme": "BlueChip"
+          }
+        },
+        {
+          "id": "ada",
+          "type": "token",
+          "score": -0.0242,
+          "data": {
+            "id": "ada",
+            "symbol": "ADA",
+            "name": "Cardano",
+            "category": "Layer1",
+            "description": "Cardano is a research-driven proof-of-stake Layer 1 blockchain for smart contracts with academic rigor.",
+            "tags": [
+              "layer1",
+              "proof-of-stake",
+              "smart-contracts"
+            ],
+            "fee_tier": "low",
+            "market_cap_rank": 8
+          }
+        }
+      ]
+    },
+    "u4": {
+      "user_id": "u4",
+      "recommendations": [
+        {
+          "id": "b3",
+          "type": "bundle",
+          "score": 0.69,
+          "data": {
+            "id": "b3",
+            "name": "Crypto Kuber Layer 1 Pack",
+            "description": "Low-fee Layer 1 tokens for smart contracts: SOL, NEAR, AVAX, and ADA.",
+            "token_ids": [
+              "sol",
+              "near",
+              "avax",
+              "ada"
+            ],
+            "risk_level": "medium",
+            "theme": "Layer1"
+          }
+        },
+        {
+          "id": "avax",
+          "type": "token",
+          "score": 0.6625,
+          "data": {
+            "id": "avax",
+            "symbol": "AVAX",
+            "name": "Avalanche",
+            "category": "Layer1",
+            "description": "Avalanche offers sub-second finality and customizable subnets for enterprise and DeFi smart contract deployments.",
+            "tags": [
+              "layer1",
+              "smart-contracts",
+              "subnets",
+              "defi"
+            ],
+            "fee_tier": "low",
+            "market_cap_rank": 12
+          }
+        },
+        {
+          "id": "n4",
+          "type": "news",
+          "score": 0.4155,
+          "data": {
+            "id": "n4",
+            "title": "Solana Network Upgrade Cuts Transaction Fees",
+            "content": "Solana validators approved a protocol upgrade reducing fees for smart contract deployments on the high-throughput Layer 1.",
+            "source": "ChainNews",
+            "topic_hint": "Layer1"
+          }
+        },
+        {
+          "id": "eth",
+          "type": "token",
+          "score": 0.1994,
+          "data": {
+            "id": "eth",
+            "symbol": "ETH",
+            "name": "Ethereum",
+            "category": "Layer1",
+            "description": "Ethereum is a smart contract platform enabling DeFi, NFTs, and decentralized applications with EVM compatibility.",
+            "tags": [
+              "layer1",
+              "smart-contracts",
+              "defi",
+              "evm"
+            ],
+            "fee_tier": "medium",
+            "market_cap_rank": 2
+          }
+        },
+        {
+          "id": "sol",
+          "type": "token",
+          "score": 0.1895,
+          "data": {
+            "id": "sol",
+            "symbol": "SOL",
+            "name": "Solana",
+            "category": "Layer1",
+            "description": "Solana is a high-throughput Layer 1 blockchain optimized for low-fee smart contracts and fast finality.",
+            "tags": [
+              "layer1",
+              "smart-contracts",
+              "low-fee",
+              "high-throughput"
+            ],
+            "fee_tier": "low",
+            "market_cap_rank": 5
+          }
+        },
+        {
+          "id": "ada",
+          "type": "token",
+          "score": 0.1853,
+          "data": {
+            "id": "ada",
+            "symbol": "ADA",
+            "name": "Cardano",
+            "category": "Layer1",
+            "description": "Cardano is a research-driven proof-of-stake Layer 1 blockchain for smart contracts with academic rigor.",
+            "tags": [
+              "layer1",
+              "proof-of-stake",
+              "smart-contracts"
+            ],
+            "fee_tier": "low",
+            "market_cap_rank": 8
+          }
+        },
+        {
+          "id": "near",
+          "type": "token",
+          "score": 0.1451,
+          "data": {
+            "id": "near",
+            "symbol": "NEAR",
+            "name": "NEAR Protocol",
+            "category": "Layer1",
+            "description": "NEAR Protocol is a sharded proof-of-stake blockchain designed for developer-friendly smart contracts.",
+            "tags": [
+              "layer1",
+              "sharding",
+              "smart-contracts",
+              "low-fee"
+            ],
+            "fee_tier": "low",
+            "market_cap_rank": 22
+          }
+        },
+        {
+          "id": "btc",
+          "type": "token",
+          "score": 0.0812,
+          "data": {
+            "id": "btc",
+            "symbol": "BTC",
+            "name": "Bitcoin",
+            "category": "Layer1",
+            "description": "Bitcoin is the original decentralized digital currency with proof-of-work consensus and store-of-value use case.",
+            "tags": [
+              "layer1",
+              "store-of-value",
+              "proof-of-work"
+            ],
+            "fee_tier": "medium",
+            "market_cap_rank": 1
+          }
+        }
+      ]
+    },
+    "u5": {
+      "user_id": "u5",
+      "recommendations": [
+        {
+          "id": "doge",
+          "type": "token",
+          "score": 0.5488,
+          "data": {
+            "id": "doge",
+            "symbol": "DOGE",
+            "name": "Dogecoin",
+            "category": "Meme",
+            "description": "Dogecoin is a community-driven meme coin used for micro-tipping and social payments.",
+            "tags": [
+              "meme",
+              "community",
+              "payments"
+            ],
+            "fee_tier": "low",
+            "market_cap_rank": 9
+          }
+        },
+        {
+          "id": "b6",
+          "type": "bundle",
+          "score": 0.4635,
+          "data": {
+            "id": "b6",
+            "name": "Crypto Kuber Meme Pack",
+            "description": "High-risk meme coin bundle with DOGE and SHIB for speculative trading.",
+            "token_ids": [
+              "doge",
+              "shib"
+            ],
+            "risk_level": "high",
+            "theme": "Meme"
+          }
+        },
+        {
+          "id": "shib",
+          "type": "token",
+          "score": 0.4561,
+          "data": {
+            "id": "shib",
+            "symbol": "SHIB",
+            "name": "Shiba Inu",
+            "category": "Meme",
+            "description": "Shiba Inu is a trending meme token with an ecosystem including DEX and metaverse initiatives.",
+            "tags": [
+              "meme",
+              "community",
+              "metaverse"
+            ],
+            "fee_tier": "low",
+            "market_cap_rank": 16
+          }
+        },
+        {
+          "id": "ada",
+          "type": "token",
+          "score": 0.3822,
+          "data": {
+            "id": "ada",
+            "symbol": "ADA",
+            "name": "Cardano",
+            "category": "Layer1",
+            "description": "Cardano is a research-driven proof-of-stake Layer 1 blockchain for smart contracts with academic rigor.",
+            "tags": [
+              "layer1",
+              "proof-of-stake",
+              "smart-contracts"
+            ],
+            "fee_tier": "low",
+            "market_cap_rank": 8
+          }
+        },
+        {
+          "id": "b3",
+          "type": "bundle",
+          "score": 0.3364,
+          "data": {
+            "id": "b3",
+            "name": "Crypto Kuber Layer 1 Pack",
+            "description": "Low-fee Layer 1 tokens for smart contracts: SOL, NEAR, AVAX, and ADA.",
+            "token_ids": [
+              "sol",
+              "near",
+              "avax",
+              "ada"
+            ],
+            "risk_level": "medium",
+            "theme": "Layer1"
+          }
+        },
+        {
+          "id": "n13",
+          "type": "news",
+          "score": 0.1783,
+          "data": {
+            "id": "n13",
+            "title": "Cosmos IBC Volume Breaks Monthly Record",
+            "content": "Inter-blockchain communication transfers between Cosmos zones surge as cross-chain DeFi gains traction.",
+            "source": "ChainNews",
+            "topic_hint": "Layer1"
+          }
+        },
+        {
+          "id": "eth",
+          "type": "token",
+          "score": 0.1454,
+          "data": {
+            "id": "eth",
+            "symbol": "ETH",
+            "name": "Ethereum",
+            "category": "Layer1",
+            "description": "Ethereum is a smart contract platform enabling DeFi, NFTs, and decentralized applications with EVM compatibility.",
+            "tags": [
+              "layer1",
+              "smart-contracts",
+              "defi",
+              "evm"
+            ],
+            "fee_tier": "medium",
+            "market_cap_rank": 2
+          }
+        },
+        {
+          "id": "avax",
+          "type": "token",
+          "score": 0.1403,
+          "data": {
+            "id": "avax",
+            "symbol": "AVAX",
+            "name": "Avalanche",
+            "category": "Layer1",
+            "description": "Avalanche offers sub-second finality and customizable subnets for enterprise and DeFi smart contract deployments.",
+            "tags": [
+              "layer1",
+              "smart-contracts",
+              "subnets",
+              "defi"
+            ],
+            "fee_tier": "low",
+            "market_cap_rank": 12
+          }
+        }
+      ]
+    }
+  },
+  "discover": {
+    "query": "trending metaverse coins",
+    "user": {
+      "id": "u2",
+      "name": "Bob",
+      "risk_appetite": "high",
+      "trading_frequency": "high",
+      "portfolio": [
+        "sol",
+        "sand",
+        "mana",
+        "axs"
+      ],
+      "preferred_categories": [
+        "Metaverse",
+        "Gaming"
+      ]
+    },
+    "search": {
+      "query": "trending metaverse coins",
+      "intent": {
+        "intent": "exploratory",
+        "confidence": 1.0,
+        "routing": "hybrid_search",
+        "probabilities": {
+          "exploratory": 1.0,
+          "informational": 0.0,
+          "transactional": 0.0
+        }
+      },
+      "entities": {
+        "tokens": [
+          "sand",
+          "axs",
+          "mana",
+          "shib"
+        ],
+        "protocols": [],
+        "categories": [
+          "metaverse"
+        ],
+        "spacy_entities": []
+      },
+      "query_topic": {
+        "topic_id": 2,
+        "topic_label": "Regulation",
+        "confidence": 0.9143
+      },
+      "results": [
+        {
+          "id": "shib",
+          "type": "token",
+          "scores": {
+            "dense": 0.9841,
+            "sparse": 0.2669,
+            "hybrid": 0.7331,
+            "ltr": 3.0372825339744756
+          },
+          "data": {
+            "id": "shib",
+            "symbol": "SHIB",
+            "name": "Shiba Inu",
+            "category": "Meme",
+            "description": "Shiba Inu is a trending meme token with an ecosystem including DEX and metaverse initiatives.",
+            "tags": [
+              "meme",
+              "community",
+              "metaverse"
+            ],
+            "fee_tier": "low",
+            "market_cap_rank": 16
+          }
+        },
+        {
+          "id": "axs",
+          "type": "token",
+          "scores": {
+            "dense": 0.8978,
+            "sparse": 0.1307,
+            "hybrid": 0.6293,
+            "ltr": 2.9283638699132553
+          },
+          "data": {
+            "id": "axs",
+            "symbol": "AXS",
+            "name": "Axie Infinity",
+            "category": "Gaming",
+            "description": "Axie Infinity is a play-to-earn gaming token in the metaverse and NFT gaming ecosystem.",
+            "tags": [
+              "gaming",
+              "metaverse",
+              "play-to-earn",
+              "nft"
+            ],
+            "fee_tier": "low",
+            "market_cap_rank": 110
+          }
+        },
+        {
+          "id": "sand",
+          "type": "token",
+          "scores": {
+            "dense": 0.8624,
+            "sparse": 0.1318,
+            "hybrid": 0.6067,
+            "ltr": 2.2167079724198535
+          },
+          "data": {
+            "id": "sand",
+            "symbol": "SAND",
+            "name": "The Sandbox",
+            "category": "Metaverse",
+            "description": "The Sandbox is a virtual world metaverse platform where users buy land NFTs and create gaming experiences.",
+            "tags": [
+              "metaverse",
+              "gaming",
+              "nft",
+              "virtual-land"
+            ],
+            "fee_tier": "medium",
+            "market_cap_rank": 80
+          }
+        },
+        {
+          "id": "mana",
+          "type": "token",
+          "scores": {
+            "dense": 0.9398,
+            "sparse": 0.4019,
+            "hybrid": 0.7516,
+            "ltr": 2.098792244476823
+          },
+          "data": {
+            "id": "mana",
+            "symbol": "MANA",
+            "name": "Decentraland",
+            "category": "Metaverse",
+            "description": "Decentraland is a trending metaverse coin powering a 3D virtual world with user-owned digital real estate.",
+            "tags": [
+              "metaverse",
+              "virtual-reality",
+              "nft",
+              "gaming"
+            ],
+            "fee_tier": "medium",
+            "market_cap_rank": 95
+          }
+        },
+        {
+          "id": "b2",
+          "type": "bundle",
+          "scores": {
+            "dense": 0.9516,
+            "sparse": 1.0,
+            "hybrid": 0.9685,
+            "ltr": -0.24717400449419122
+          },
+          "data": {
+            "id": "b2",
+            "name": "Crypto Kuber Metaverse Pack",
+            "description": "Trending metaverse coins bundle with SAND, MANA, and AXS for virtual world and gaming exposure.",
+            "token_ids": [
+              "sand",
+              "mana",
+              "axs"
+            ],
+            "risk_level": "high",
+            "theme": "Metaverse"
+          }
+        },
+        {
+          "id": "doge",
+          "type": "token",
+          "scores": {
+            "dense": 0.9528,
+            "sparse": 0.0,
+            "hybrid": 0.6194,
+            "ltr": -0.47000938826521066
+          },
+          "data": {
+            "id": "doge",
+            "symbol": "DOGE",
+            "name": "Dogecoin",
+            "category": "Meme",
+            "description": "Dogecoin is a community-driven meme coin used for micro-tipping and social payments.",
+            "tags": [
+              "meme",
+              "community",
+              "payments"
+            ],
+            "fee_tier": "low",
+            "market_cap_rank": 9
+          }
+        }
+      ],
+      "total_candidates": 19
+    },
+    "recommendations": [
+      {
+        "id": "b2",
+        "type": "bundle",
+        "score": 0.7818,
+        "data": {
+          "id": "b2",
+          "name": "Crypto Kuber Metaverse Pack",
+          "description": "Trending metaverse coins bundle with SAND, MANA, and AXS for virtual world and gaming exposure.",
+          "token_ids": [
+            "sand",
+            "mana",
+            "axs"
+          ],
+          "risk_level": "high",
+          "theme": "Metaverse"
+        }
+      },
+      {
+        "id": "b4",
+        "type": "bundle",
+        "score": 0.5058,
+        "data": {
+          "id": "b4",
+          "name": "Crypto Kuber Blue Chip Pack",
+          "description": "Conservative bundle of BTC, ETH, and XRP for long-term portfolio stability.",
+          "token_ids": [
+            "btc",
+            "eth",
+            "xrp"
+          ],
+          "risk_level": "low",
+          "theme": "BlueChip"
+        }
+      },
+      {
+        "id": "n3",
+        "type": "news",
+        "score": 0.308,
+        "data": {
+          "id": "n3",
+          "title": "Metaverse Land Sales Hit Record in The Sandbox",
+          "content": "Virtual real estate NFTs in metaverse platforms saw record trading volume as brands enter the virtual world economy.",
+          "source": "MetaVerse Times",
+          "topic_hint": "Metaverse"
+        }
+      },
+      {
+        "id": "dot",
+        "type": "token",
+        "score": 0.0571,
+        "data": {
+          "id": "dot",
+          "symbol": "DOT",
+          "name": "Polkadot",
+          "category": "Layer0",
+          "description": "Polkadot enables cross-chain interoperability connecting multiple blockchains through parachains.",
+          "tags": [
+            "interoperability",
+            "parachain",
+            "layer0"
+          ],
+          "fee_tier": "low",
+          "market_cap_rank": 11
+        }
+      },
+      {
+        "id": "n20",
+        "type": "news",
+        "score": 0.0336,
+        "data": {
+          "id": "n20",
+          "title": "Altcoin Rotation Strategy Gains Among Swing Traders",
+          "content": "Trading desks rotate from Bitcoin into high-beta Layer 1 and metaverse tokens during risk-on sessions.",
+          "source": "TradeWire",
+          "topic_hint": "Trading"
+        }
+      },
+      {
+        "id": "b3",
+        "type": "bundle",
+        "score": -0.0341,
+        "data": {
+          "id": "b3",
+          "name": "Crypto Kuber Layer 1 Pack",
+          "description": "Low-fee Layer 1 tokens for smart contracts: SOL, NEAR, AVAX, and ADA.",
+          "token_ids": [
+            "sol",
+            "near",
+            "avax",
+            "ada"
+          ],
+          "risk_level": "medium",
+          "theme": "Layer1"
+        }
+      }
+    ]
+  },
+  "topics": [
+    {
+      "news_id": "n1",
+      "topic_id": 5,
+      "topic_label": "Trading",
+      "confidence": 0.9924
+    },
+    {
+      "news_id": "n2",
+      "topic_id": 5,
+      "topic_label": "Trading",
+      "confidence": 0.9907
+    },
+    {
+      "news_id": "n3",
+      "topic_id": 2,
+      "topic_label": "Regulation",
+      "confidence": 0.9927
+    },
+    {
+      "news_id": "n4",
+      "topic_id": 1,
+      "topic_label": "NFTs",
+      "confidence": 0.9911
+    },
+    {
+      "news_id": "n5",
+      "topic_id": 2,
+      "topic_label": "Regulation",
+      "confidence": 0.9909
+    },
+    {
+      "news_id": "n6",
+      "topic_id": 2,
+      "topic_label": "Regulation",
+      "confidence": 0.9914
+    },
+    {
+      "news_id": "n7",
+      "topic_id": 3,
+      "topic_label": "Layer1",
+      "confidence": 0.9903
+    },
+    {
+      "news_id": "n8",
+      "topic_id": 0,
+      "topic_label": "DeFi",
+      "confidence": 0.9905
+    },
+    {
+      "news_id": "n9",
+      "topic_id": 3,
+      "topic_label": "Layer1",
+      "confidence": 0.9898
+    },
+    {
+      "news_id": "n10",
+      "topic_id": 4,
+      "topic_label": "Metaverse",
+      "confidence": 0.9895
+    },
+    {
+      "news_id": "n11",
+      "topic_id": 3,
+      "topic_label": "Layer1",
+      "confidence": 0.9903
+    },
+    {
+      "news_id": "n12",
+      "topic_id": 0,
+      "topic_label": "DeFi",
+      "confidence": 0.9909
+    },
+    {
+      "news_id": "n13",
+      "topic_id": 0,
+      "topic_label": "DeFi",
+      "confidence": 0.989
+    },
+    {
+      "news_id": "n14",
+      "topic_id": 5,
+      "topic_label": "Trading",
+      "confidence": 0.9907
+    },
+    {
+      "news_id": "n15",
+      "topic_id": 2,
+      "topic_label": "Regulation",
+      "confidence": 0.9914
+    },
+    {
+      "news_id": "n16",
+      "topic_id": 0,
+      "topic_label": "DeFi",
+      "confidence": 0.9895
+    },
+    {
+      "news_id": "n17",
+      "topic_id": 1,
+      "topic_label": "NFTs",
+      "confidence": 0.9898
+    },
+    {
+      "news_id": "n18",
+      "topic_id": 1,
+      "topic_label": "NFTs",
+      "confidence": 0.9892
+    },
+    {
+      "news_id": "n19",
+      "topic_id": 2,
+      "topic_label": "Regulation",
+      "confidence": 0.9888
+    },
+    {
+      "news_id": "n20",
+      "topic_id": 4,
+      "topic_label": "Metaverse",
+      "confidence": 0.9904
+    }
+  ]
+}

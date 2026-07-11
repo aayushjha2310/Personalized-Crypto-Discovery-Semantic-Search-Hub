@@ -1,0 +1,2702 @@
+[
+  {
+    "query": "low fee Layer 1 tokens for smart contracts",
+    "query_id": 67298,
+    "item_id": "btc",
+    "label": 0,
+    "market_cap_rank": 1,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "low fee Layer 1 tokens for smart contracts",
+    "query_id": 67298,
+    "item_id": "eth",
+    "label": 0,
+    "market_cap_rank": 2,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "low fee Layer 1 tokens for smart contracts",
+    "query_id": 67298,
+    "item_id": "sol",
+    "label": 3,
+    "market_cap_rank": 5,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "low fee Layer 1 tokens for smart contracts",
+    "query_id": 67298,
+    "item_id": "avax",
+    "label": 3,
+    "market_cap_rank": 12,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "low fee Layer 1 tokens for smart contracts",
+    "query_id": 67298,
+    "item_id": "matic",
+    "label": 0,
+    "market_cap_rank": 15,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "low fee Layer 1 tokens for smart contracts",
+    "query_id": 67298,
+    "item_id": "link",
+    "label": 0,
+    "market_cap_rank": 14,
+    "fee_score": 1,
+    "category_match": 0
+  },
+  {
+    "query": "low fee Layer 1 tokens for smart contracts",
+    "query_id": 67298,
+    "item_id": "uni",
+    "label": 0,
+    "market_cap_rank": 20,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "low fee Layer 1 tokens for smart contracts",
+    "query_id": 67298,
+    "item_id": "aave",
+    "label": 0,
+    "market_cap_rank": 45,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "low fee Layer 1 tokens for smart contracts",
+    "query_id": 67298,
+    "item_id": "sand",
+    "label": 0,
+    "market_cap_rank": 80,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "low fee Layer 1 tokens for smart contracts",
+    "query_id": 67298,
+    "item_id": "mana",
+    "label": 0,
+    "market_cap_rank": 95,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "low fee Layer 1 tokens for smart contracts",
+    "query_id": 67298,
+    "item_id": "axs",
+    "label": 0,
+    "market_cap_rank": 110,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "low fee Layer 1 tokens for smart contracts",
+    "query_id": 67298,
+    "item_id": "ada",
+    "label": 3,
+    "market_cap_rank": 8,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "low fee Layer 1 tokens for smart contracts",
+    "query_id": 67298,
+    "item_id": "dot",
+    "label": 0,
+    "market_cap_rank": 11,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "low fee Layer 1 tokens for smart contracts",
+    "query_id": 67298,
+    "item_id": "atom",
+    "label": 0,
+    "market_cap_rank": 25,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "low fee Layer 1 tokens for smart contracts",
+    "query_id": 67298,
+    "item_id": "xrp",
+    "label": 0,
+    "market_cap_rank": 6,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "low fee Layer 1 tokens for smart contracts",
+    "query_id": 67298,
+    "item_id": "doge",
+    "label": 0,
+    "market_cap_rank": 9,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "low fee Layer 1 tokens for smart contracts",
+    "query_id": 67298,
+    "item_id": "shib",
+    "label": 0,
+    "market_cap_rank": 16,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "low fee Layer 1 tokens for smart contracts",
+    "query_id": 67298,
+    "item_id": "arb",
+    "label": 0,
+    "market_cap_rank": 30,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "low fee Layer 1 tokens for smart contracts",
+    "query_id": 67298,
+    "item_id": "op",
+    "label": 0,
+    "market_cap_rank": 35,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "low fee Layer 1 tokens for smart contracts",
+    "query_id": 67298,
+    "item_id": "near",
+    "label": 3,
+    "market_cap_rank": 22,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "trending metaverse coins",
+    "query_id": 68363,
+    "item_id": "btc",
+    "label": 0,
+    "market_cap_rank": 1,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "trending metaverse coins",
+    "query_id": 68363,
+    "item_id": "eth",
+    "label": 0,
+    "market_cap_rank": 2,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "trending metaverse coins",
+    "query_id": 68363,
+    "item_id": "sol",
+    "label": 0,
+    "market_cap_rank": 5,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "trending metaverse coins",
+    "query_id": 68363,
+    "item_id": "avax",
+    "label": 0,
+    "market_cap_rank": 12,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "trending metaverse coins",
+    "query_id": 68363,
+    "item_id": "matic",
+    "label": 0,
+    "market_cap_rank": 15,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "trending metaverse coins",
+    "query_id": 68363,
+    "item_id": "link",
+    "label": 0,
+    "market_cap_rank": 14,
+    "fee_score": 1,
+    "category_match": 0
+  },
+  {
+    "query": "trending metaverse coins",
+    "query_id": 68363,
+    "item_id": "uni",
+    "label": 0,
+    "market_cap_rank": 20,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "trending metaverse coins",
+    "query_id": 68363,
+    "item_id": "aave",
+    "label": 0,
+    "market_cap_rank": 45,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "trending metaverse coins",
+    "query_id": 68363,
+    "item_id": "sand",
+    "label": 3,
+    "market_cap_rank": 80,
+    "fee_score": 2,
+    "category_match": 1
+  },
+  {
+    "query": "trending metaverse coins",
+    "query_id": 68363,
+    "item_id": "mana",
+    "label": 3,
+    "market_cap_rank": 95,
+    "fee_score": 2,
+    "category_match": 1
+  },
+  {
+    "query": "trending metaverse coins",
+    "query_id": 68363,
+    "item_id": "axs",
+    "label": 3,
+    "market_cap_rank": 110,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "trending metaverse coins",
+    "query_id": 68363,
+    "item_id": "ada",
+    "label": 0,
+    "market_cap_rank": 8,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "trending metaverse coins",
+    "query_id": 68363,
+    "item_id": "dot",
+    "label": 0,
+    "market_cap_rank": 11,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "trending metaverse coins",
+    "query_id": 68363,
+    "item_id": "atom",
+    "label": 0,
+    "market_cap_rank": 25,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "trending metaverse coins",
+    "query_id": 68363,
+    "item_id": "xrp",
+    "label": 0,
+    "market_cap_rank": 6,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "trending metaverse coins",
+    "query_id": 68363,
+    "item_id": "doge",
+    "label": 0,
+    "market_cap_rank": 9,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "trending metaverse coins",
+    "query_id": 68363,
+    "item_id": "shib",
+    "label": 3,
+    "market_cap_rank": 16,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "trending metaverse coins",
+    "query_id": 68363,
+    "item_id": "arb",
+    "label": 0,
+    "market_cap_rank": 30,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "trending metaverse coins",
+    "query_id": 68363,
+    "item_id": "op",
+    "label": 0,
+    "market_cap_rank": 35,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "trending metaverse coins",
+    "query_id": 68363,
+    "item_id": "near",
+    "label": 0,
+    "market_cap_rank": 22,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "what is Ethereum DeFi TVL",
+    "query_id": 30389,
+    "item_id": "btc",
+    "label": 0,
+    "market_cap_rank": 1,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "what is Ethereum DeFi TVL",
+    "query_id": 30389,
+    "item_id": "eth",
+    "label": 3,
+    "market_cap_rank": 2,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "what is Ethereum DeFi TVL",
+    "query_id": 30389,
+    "item_id": "sol",
+    "label": 0,
+    "market_cap_rank": 5,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "what is Ethereum DeFi TVL",
+    "query_id": 30389,
+    "item_id": "avax",
+    "label": 1,
+    "market_cap_rank": 12,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "what is Ethereum DeFi TVL",
+    "query_id": 30389,
+    "item_id": "matic",
+    "label": 1,
+    "market_cap_rank": 15,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "what is Ethereum DeFi TVL",
+    "query_id": 30389,
+    "item_id": "link",
+    "label": 1,
+    "market_cap_rank": 14,
+    "fee_score": 1,
+    "category_match": 0
+  },
+  {
+    "query": "what is Ethereum DeFi TVL",
+    "query_id": 30389,
+    "item_id": "uni",
+    "label": 3,
+    "market_cap_rank": 20,
+    "fee_score": 2,
+    "category_match": 1
+  },
+  {
+    "query": "what is Ethereum DeFi TVL",
+    "query_id": 30389,
+    "item_id": "aave",
+    "label": 3,
+    "market_cap_rank": 45,
+    "fee_score": 2,
+    "category_match": 1
+  },
+  {
+    "query": "what is Ethereum DeFi TVL",
+    "query_id": 30389,
+    "item_id": "sand",
+    "label": 0,
+    "market_cap_rank": 80,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "what is Ethereum DeFi TVL",
+    "query_id": 30389,
+    "item_id": "mana",
+    "label": 0,
+    "market_cap_rank": 95,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "what is Ethereum DeFi TVL",
+    "query_id": 30389,
+    "item_id": "axs",
+    "label": 0,
+    "market_cap_rank": 110,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "what is Ethereum DeFi TVL",
+    "query_id": 30389,
+    "item_id": "ada",
+    "label": 0,
+    "market_cap_rank": 8,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "what is Ethereum DeFi TVL",
+    "query_id": 30389,
+    "item_id": "dot",
+    "label": 0,
+    "market_cap_rank": 11,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "what is Ethereum DeFi TVL",
+    "query_id": 30389,
+    "item_id": "atom",
+    "label": 0,
+    "market_cap_rank": 25,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "what is Ethereum DeFi TVL",
+    "query_id": 30389,
+    "item_id": "xrp",
+    "label": 0,
+    "market_cap_rank": 6,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "what is Ethereum DeFi TVL",
+    "query_id": 30389,
+    "item_id": "doge",
+    "label": 0,
+    "market_cap_rank": 9,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "what is Ethereum DeFi TVL",
+    "query_id": 30389,
+    "item_id": "shib",
+    "label": 0,
+    "market_cap_rank": 16,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "what is Ethereum DeFi TVL",
+    "query_id": 30389,
+    "item_id": "arb",
+    "label": 1,
+    "market_cap_rank": 30,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "what is Ethereum DeFi TVL",
+    "query_id": 30389,
+    "item_id": "op",
+    "label": 1,
+    "market_cap_rank": 35,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "what is Ethereum DeFi TVL",
+    "query_id": 30389,
+    "item_id": "near",
+    "label": 0,
+    "market_cap_rank": 22,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "buy DeFi lending tokens",
+    "query_id": 165,
+    "item_id": "btc",
+    "label": 0,
+    "market_cap_rank": 1,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "buy DeFi lending tokens",
+    "query_id": 165,
+    "item_id": "eth",
+    "label": 1,
+    "market_cap_rank": 2,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "buy DeFi lending tokens",
+    "query_id": 165,
+    "item_id": "sol",
+    "label": 0,
+    "market_cap_rank": 5,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "buy DeFi lending tokens",
+    "query_id": 165,
+    "item_id": "avax",
+    "label": 1,
+    "market_cap_rank": 12,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "buy DeFi lending tokens",
+    "query_id": 165,
+    "item_id": "matic",
+    "label": 0,
+    "market_cap_rank": 15,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "buy DeFi lending tokens",
+    "query_id": 165,
+    "item_id": "link",
+    "label": 3,
+    "market_cap_rank": 14,
+    "fee_score": 1,
+    "category_match": 0
+  },
+  {
+    "query": "buy DeFi lending tokens",
+    "query_id": 165,
+    "item_id": "uni",
+    "label": 3,
+    "market_cap_rank": 20,
+    "fee_score": 2,
+    "category_match": 1
+  },
+  {
+    "query": "buy DeFi lending tokens",
+    "query_id": 165,
+    "item_id": "aave",
+    "label": 3,
+    "market_cap_rank": 45,
+    "fee_score": 2,
+    "category_match": 1
+  },
+  {
+    "query": "buy DeFi lending tokens",
+    "query_id": 165,
+    "item_id": "sand",
+    "label": 0,
+    "market_cap_rank": 80,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "buy DeFi lending tokens",
+    "query_id": 165,
+    "item_id": "mana",
+    "label": 0,
+    "market_cap_rank": 95,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "buy DeFi lending tokens",
+    "query_id": 165,
+    "item_id": "axs",
+    "label": 0,
+    "market_cap_rank": 110,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "buy DeFi lending tokens",
+    "query_id": 165,
+    "item_id": "ada",
+    "label": 0,
+    "market_cap_rank": 8,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "buy DeFi lending tokens",
+    "query_id": 165,
+    "item_id": "dot",
+    "label": 0,
+    "market_cap_rank": 11,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "buy DeFi lending tokens",
+    "query_id": 165,
+    "item_id": "atom",
+    "label": 0,
+    "market_cap_rank": 25,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "buy DeFi lending tokens",
+    "query_id": 165,
+    "item_id": "xrp",
+    "label": 0,
+    "market_cap_rank": 6,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "buy DeFi lending tokens",
+    "query_id": 165,
+    "item_id": "doge",
+    "label": 0,
+    "market_cap_rank": 9,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "buy DeFi lending tokens",
+    "query_id": 165,
+    "item_id": "shib",
+    "label": 0,
+    "market_cap_rank": 16,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "buy DeFi lending tokens",
+    "query_id": 165,
+    "item_id": "arb",
+    "label": 1,
+    "market_cap_rank": 30,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "buy DeFi lending tokens",
+    "query_id": 165,
+    "item_id": "op",
+    "label": 1,
+    "market_cap_rank": 35,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "buy DeFi lending tokens",
+    "query_id": 165,
+    "item_id": "near",
+    "label": 0,
+    "market_cap_rank": 22,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "crypto regulation news today",
+    "query_id": 77972,
+    "item_id": "btc",
+    "label": 0,
+    "market_cap_rank": 1,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "crypto regulation news today",
+    "query_id": 77972,
+    "item_id": "eth",
+    "label": 0,
+    "market_cap_rank": 2,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "crypto regulation news today",
+    "query_id": 77972,
+    "item_id": "sol",
+    "label": 0,
+    "market_cap_rank": 5,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "crypto regulation news today",
+    "query_id": 77972,
+    "item_id": "avax",
+    "label": 0,
+    "market_cap_rank": 12,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "crypto regulation news today",
+    "query_id": 77972,
+    "item_id": "matic",
+    "label": 0,
+    "market_cap_rank": 15,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "crypto regulation news today",
+    "query_id": 77972,
+    "item_id": "link",
+    "label": 0,
+    "market_cap_rank": 14,
+    "fee_score": 1,
+    "category_match": 0
+  },
+  {
+    "query": "crypto regulation news today",
+    "query_id": 77972,
+    "item_id": "uni",
+    "label": 0,
+    "market_cap_rank": 20,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "crypto regulation news today",
+    "query_id": 77972,
+    "item_id": "aave",
+    "label": 0,
+    "market_cap_rank": 45,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "crypto regulation news today",
+    "query_id": 77972,
+    "item_id": "sand",
+    "label": 0,
+    "market_cap_rank": 80,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "crypto regulation news today",
+    "query_id": 77972,
+    "item_id": "mana",
+    "label": 0,
+    "market_cap_rank": 95,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "crypto regulation news today",
+    "query_id": 77972,
+    "item_id": "axs",
+    "label": 0,
+    "market_cap_rank": 110,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "crypto regulation news today",
+    "query_id": 77972,
+    "item_id": "ada",
+    "label": 0,
+    "market_cap_rank": 8,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "crypto regulation news today",
+    "query_id": 77972,
+    "item_id": "dot",
+    "label": 0,
+    "market_cap_rank": 11,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "crypto regulation news today",
+    "query_id": 77972,
+    "item_id": "atom",
+    "label": 0,
+    "market_cap_rank": 25,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "crypto regulation news today",
+    "query_id": 77972,
+    "item_id": "xrp",
+    "label": 0,
+    "market_cap_rank": 6,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "crypto regulation news today",
+    "query_id": 77972,
+    "item_id": "doge",
+    "label": 0,
+    "market_cap_rank": 9,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "crypto regulation news today",
+    "query_id": 77972,
+    "item_id": "shib",
+    "label": 0,
+    "market_cap_rank": 16,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "crypto regulation news today",
+    "query_id": 77972,
+    "item_id": "arb",
+    "label": 0,
+    "market_cap_rank": 30,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "crypto regulation news today",
+    "query_id": 77972,
+    "item_id": "op",
+    "label": 0,
+    "market_cap_rank": 35,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "crypto regulation news today",
+    "query_id": 77972,
+    "item_id": "near",
+    "label": 0,
+    "market_cap_rank": 22,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "best NFT marketplace tokens",
+    "query_id": 53006,
+    "item_id": "btc",
+    "label": 0,
+    "market_cap_rank": 1,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "best NFT marketplace tokens",
+    "query_id": 53006,
+    "item_id": "eth",
+    "label": 0,
+    "market_cap_rank": 2,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "best NFT marketplace tokens",
+    "query_id": 53006,
+    "item_id": "sol",
+    "label": 0,
+    "market_cap_rank": 5,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "best NFT marketplace tokens",
+    "query_id": 53006,
+    "item_id": "avax",
+    "label": 0,
+    "market_cap_rank": 12,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "best NFT marketplace tokens",
+    "query_id": 53006,
+    "item_id": "matic",
+    "label": 0,
+    "market_cap_rank": 15,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "best NFT marketplace tokens",
+    "query_id": 53006,
+    "item_id": "link",
+    "label": 0,
+    "market_cap_rank": 14,
+    "fee_score": 1,
+    "category_match": 0
+  },
+  {
+    "query": "best NFT marketplace tokens",
+    "query_id": 53006,
+    "item_id": "uni",
+    "label": 0,
+    "market_cap_rank": 20,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "best NFT marketplace tokens",
+    "query_id": 53006,
+    "item_id": "aave",
+    "label": 0,
+    "market_cap_rank": 45,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "best NFT marketplace tokens",
+    "query_id": 53006,
+    "item_id": "sand",
+    "label": 3,
+    "market_cap_rank": 80,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "best NFT marketplace tokens",
+    "query_id": 53006,
+    "item_id": "mana",
+    "label": 3,
+    "market_cap_rank": 95,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "best NFT marketplace tokens",
+    "query_id": 53006,
+    "item_id": "axs",
+    "label": 1,
+    "market_cap_rank": 110,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "best NFT marketplace tokens",
+    "query_id": 53006,
+    "item_id": "ada",
+    "label": 0,
+    "market_cap_rank": 8,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "best NFT marketplace tokens",
+    "query_id": 53006,
+    "item_id": "dot",
+    "label": 0,
+    "market_cap_rank": 11,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "best NFT marketplace tokens",
+    "query_id": 53006,
+    "item_id": "atom",
+    "label": 0,
+    "market_cap_rank": 25,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "best NFT marketplace tokens",
+    "query_id": 53006,
+    "item_id": "xrp",
+    "label": 0,
+    "market_cap_rank": 6,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "best NFT marketplace tokens",
+    "query_id": 53006,
+    "item_id": "doge",
+    "label": 0,
+    "market_cap_rank": 9,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "best NFT marketplace tokens",
+    "query_id": 53006,
+    "item_id": "shib",
+    "label": 0,
+    "market_cap_rank": 16,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "best NFT marketplace tokens",
+    "query_id": 53006,
+    "item_id": "arb",
+    "label": 0,
+    "market_cap_rank": 30,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "best NFT marketplace tokens",
+    "query_id": 53006,
+    "item_id": "op",
+    "label": 0,
+    "market_cap_rank": 35,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "best NFT marketplace tokens",
+    "query_id": 53006,
+    "item_id": "near",
+    "label": 0,
+    "market_cap_rank": 22,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "Layer 2 rollup tokens with low gas",
+    "query_id": 52935,
+    "item_id": "btc",
+    "label": 0,
+    "market_cap_rank": 1,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "Layer 2 rollup tokens with low gas",
+    "query_id": 52935,
+    "item_id": "eth",
+    "label": 0,
+    "market_cap_rank": 2,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "Layer 2 rollup tokens with low gas",
+    "query_id": 52935,
+    "item_id": "sol",
+    "label": 0,
+    "market_cap_rank": 5,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "Layer 2 rollup tokens with low gas",
+    "query_id": 52935,
+    "item_id": "avax",
+    "label": 0,
+    "market_cap_rank": 12,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "Layer 2 rollup tokens with low gas",
+    "query_id": 52935,
+    "item_id": "matic",
+    "label": 3,
+    "market_cap_rank": 15,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "Layer 2 rollup tokens with low gas",
+    "query_id": 52935,
+    "item_id": "link",
+    "label": 0,
+    "market_cap_rank": 14,
+    "fee_score": 1,
+    "category_match": 0
+  },
+  {
+    "query": "Layer 2 rollup tokens with low gas",
+    "query_id": 52935,
+    "item_id": "uni",
+    "label": 0,
+    "market_cap_rank": 20,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "Layer 2 rollup tokens with low gas",
+    "query_id": 52935,
+    "item_id": "aave",
+    "label": 0,
+    "market_cap_rank": 45,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "Layer 2 rollup tokens with low gas",
+    "query_id": 52935,
+    "item_id": "sand",
+    "label": 0,
+    "market_cap_rank": 80,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "Layer 2 rollup tokens with low gas",
+    "query_id": 52935,
+    "item_id": "mana",
+    "label": 0,
+    "market_cap_rank": 95,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "Layer 2 rollup tokens with low gas",
+    "query_id": 52935,
+    "item_id": "axs",
+    "label": 0,
+    "market_cap_rank": 110,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "Layer 2 rollup tokens with low gas",
+    "query_id": 52935,
+    "item_id": "ada",
+    "label": 0,
+    "market_cap_rank": 8,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "Layer 2 rollup tokens with low gas",
+    "query_id": 52935,
+    "item_id": "dot",
+    "label": 0,
+    "market_cap_rank": 11,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "Layer 2 rollup tokens with low gas",
+    "query_id": 52935,
+    "item_id": "atom",
+    "label": 0,
+    "market_cap_rank": 25,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "Layer 2 rollup tokens with low gas",
+    "query_id": 52935,
+    "item_id": "xrp",
+    "label": 0,
+    "market_cap_rank": 6,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "Layer 2 rollup tokens with low gas",
+    "query_id": 52935,
+    "item_id": "doge",
+    "label": 0,
+    "market_cap_rank": 9,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "Layer 2 rollup tokens with low gas",
+    "query_id": 52935,
+    "item_id": "shib",
+    "label": 0,
+    "market_cap_rank": 16,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "Layer 2 rollup tokens with low gas",
+    "query_id": 52935,
+    "item_id": "arb",
+    "label": 3,
+    "market_cap_rank": 30,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "Layer 2 rollup tokens with low gas",
+    "query_id": 52935,
+    "item_id": "op",
+    "label": 3,
+    "market_cap_rank": 35,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "Layer 2 rollup tokens with low gas",
+    "query_id": 52935,
+    "item_id": "near",
+    "label": 0,
+    "market_cap_rank": 22,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "how does Chainlink oracle work",
+    "query_id": 57061,
+    "item_id": "btc",
+    "label": 0,
+    "market_cap_rank": 1,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "how does Chainlink oracle work",
+    "query_id": 57061,
+    "item_id": "eth",
+    "label": 0,
+    "market_cap_rank": 2,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "how does Chainlink oracle work",
+    "query_id": 57061,
+    "item_id": "sol",
+    "label": 0,
+    "market_cap_rank": 5,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "how does Chainlink oracle work",
+    "query_id": 57061,
+    "item_id": "avax",
+    "label": 0,
+    "market_cap_rank": 12,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "how does Chainlink oracle work",
+    "query_id": 57061,
+    "item_id": "matic",
+    "label": 0,
+    "market_cap_rank": 15,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "how does Chainlink oracle work",
+    "query_id": 57061,
+    "item_id": "link",
+    "label": 3,
+    "market_cap_rank": 14,
+    "fee_score": 1,
+    "category_match": 1
+  },
+  {
+    "query": "how does Chainlink oracle work",
+    "query_id": 57061,
+    "item_id": "uni",
+    "label": 0,
+    "market_cap_rank": 20,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "how does Chainlink oracle work",
+    "query_id": 57061,
+    "item_id": "aave",
+    "label": 0,
+    "market_cap_rank": 45,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "how does Chainlink oracle work",
+    "query_id": 57061,
+    "item_id": "sand",
+    "label": 0,
+    "market_cap_rank": 80,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "how does Chainlink oracle work",
+    "query_id": 57061,
+    "item_id": "mana",
+    "label": 0,
+    "market_cap_rank": 95,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "how does Chainlink oracle work",
+    "query_id": 57061,
+    "item_id": "axs",
+    "label": 0,
+    "market_cap_rank": 110,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "how does Chainlink oracle work",
+    "query_id": 57061,
+    "item_id": "ada",
+    "label": 0,
+    "market_cap_rank": 8,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "how does Chainlink oracle work",
+    "query_id": 57061,
+    "item_id": "dot",
+    "label": 0,
+    "market_cap_rank": 11,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "how does Chainlink oracle work",
+    "query_id": 57061,
+    "item_id": "atom",
+    "label": 0,
+    "market_cap_rank": 25,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "how does Chainlink oracle work",
+    "query_id": 57061,
+    "item_id": "xrp",
+    "label": 0,
+    "market_cap_rank": 6,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "how does Chainlink oracle work",
+    "query_id": 57061,
+    "item_id": "doge",
+    "label": 0,
+    "market_cap_rank": 9,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "how does Chainlink oracle work",
+    "query_id": 57061,
+    "item_id": "shib",
+    "label": 0,
+    "market_cap_rank": 16,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "how does Chainlink oracle work",
+    "query_id": 57061,
+    "item_id": "arb",
+    "label": 0,
+    "market_cap_rank": 30,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "how does Chainlink oracle work",
+    "query_id": 57061,
+    "item_id": "op",
+    "label": 0,
+    "market_cap_rank": 35,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "how does Chainlink oracle work",
+    "query_id": 57061,
+    "item_id": "near",
+    "label": 0,
+    "market_cap_rank": 22,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "explore gaming play to earn coins",
+    "query_id": 7678,
+    "item_id": "btc",
+    "label": 0,
+    "market_cap_rank": 1,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "explore gaming play to earn coins",
+    "query_id": 7678,
+    "item_id": "eth",
+    "label": 0,
+    "market_cap_rank": 2,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "explore gaming play to earn coins",
+    "query_id": 7678,
+    "item_id": "sol",
+    "label": 0,
+    "market_cap_rank": 5,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "explore gaming play to earn coins",
+    "query_id": 7678,
+    "item_id": "avax",
+    "label": 0,
+    "market_cap_rank": 12,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "explore gaming play to earn coins",
+    "query_id": 7678,
+    "item_id": "matic",
+    "label": 1,
+    "market_cap_rank": 15,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "explore gaming play to earn coins",
+    "query_id": 7678,
+    "item_id": "link",
+    "label": 0,
+    "market_cap_rank": 14,
+    "fee_score": 1,
+    "category_match": 0
+  },
+  {
+    "query": "explore gaming play to earn coins",
+    "query_id": 7678,
+    "item_id": "uni",
+    "label": 0,
+    "market_cap_rank": 20,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "explore gaming play to earn coins",
+    "query_id": 7678,
+    "item_id": "aave",
+    "label": 0,
+    "market_cap_rank": 45,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "explore gaming play to earn coins",
+    "query_id": 7678,
+    "item_id": "sand",
+    "label": 3,
+    "market_cap_rank": 80,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "explore gaming play to earn coins",
+    "query_id": 7678,
+    "item_id": "mana",
+    "label": 3,
+    "market_cap_rank": 95,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "explore gaming play to earn coins",
+    "query_id": 7678,
+    "item_id": "axs",
+    "label": 3,
+    "market_cap_rank": 110,
+    "fee_score": 3,
+    "category_match": 1
+  },
+  {
+    "query": "explore gaming play to earn coins",
+    "query_id": 7678,
+    "item_id": "ada",
+    "label": 0,
+    "market_cap_rank": 8,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "explore gaming play to earn coins",
+    "query_id": 7678,
+    "item_id": "dot",
+    "label": 0,
+    "market_cap_rank": 11,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "explore gaming play to earn coins",
+    "query_id": 7678,
+    "item_id": "atom",
+    "label": 0,
+    "market_cap_rank": 25,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "explore gaming play to earn coins",
+    "query_id": 7678,
+    "item_id": "xrp",
+    "label": 0,
+    "market_cap_rank": 6,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "explore gaming play to earn coins",
+    "query_id": 7678,
+    "item_id": "doge",
+    "label": 0,
+    "market_cap_rank": 9,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "explore gaming play to earn coins",
+    "query_id": 7678,
+    "item_id": "shib",
+    "label": 0,
+    "market_cap_rank": 16,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "explore gaming play to earn coins",
+    "query_id": 7678,
+    "item_id": "arb",
+    "label": 0,
+    "market_cap_rank": 30,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "explore gaming play to earn coins",
+    "query_id": 7678,
+    "item_id": "op",
+    "label": 0,
+    "market_cap_rank": 35,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "explore gaming play to earn coins",
+    "query_id": 7678,
+    "item_id": "near",
+    "label": 0,
+    "market_cap_rank": 22,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "purchase Bitcoin ETF related assets",
+    "query_id": 28190,
+    "item_id": "btc",
+    "label": 3,
+    "market_cap_rank": 1,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "purchase Bitcoin ETF related assets",
+    "query_id": 28190,
+    "item_id": "eth",
+    "label": 3,
+    "market_cap_rank": 2,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "purchase Bitcoin ETF related assets",
+    "query_id": 28190,
+    "item_id": "sol",
+    "label": 0,
+    "market_cap_rank": 5,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "purchase Bitcoin ETF related assets",
+    "query_id": 28190,
+    "item_id": "avax",
+    "label": 0,
+    "market_cap_rank": 12,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "purchase Bitcoin ETF related assets",
+    "query_id": 28190,
+    "item_id": "matic",
+    "label": 0,
+    "market_cap_rank": 15,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "purchase Bitcoin ETF related assets",
+    "query_id": 28190,
+    "item_id": "link",
+    "label": 0,
+    "market_cap_rank": 14,
+    "fee_score": 1,
+    "category_match": 0
+  },
+  {
+    "query": "purchase Bitcoin ETF related assets",
+    "query_id": 28190,
+    "item_id": "uni",
+    "label": 0,
+    "market_cap_rank": 20,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "purchase Bitcoin ETF related assets",
+    "query_id": 28190,
+    "item_id": "aave",
+    "label": 0,
+    "market_cap_rank": 45,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "purchase Bitcoin ETF related assets",
+    "query_id": 28190,
+    "item_id": "sand",
+    "label": 0,
+    "market_cap_rank": 80,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "purchase Bitcoin ETF related assets",
+    "query_id": 28190,
+    "item_id": "mana",
+    "label": 0,
+    "market_cap_rank": 95,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "purchase Bitcoin ETF related assets",
+    "query_id": 28190,
+    "item_id": "axs",
+    "label": 0,
+    "market_cap_rank": 110,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "purchase Bitcoin ETF related assets",
+    "query_id": 28190,
+    "item_id": "ada",
+    "label": 0,
+    "market_cap_rank": 8,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "purchase Bitcoin ETF related assets",
+    "query_id": 28190,
+    "item_id": "dot",
+    "label": 0,
+    "market_cap_rank": 11,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "purchase Bitcoin ETF related assets",
+    "query_id": 28190,
+    "item_id": "atom",
+    "label": 0,
+    "market_cap_rank": 25,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "purchase Bitcoin ETF related assets",
+    "query_id": 28190,
+    "item_id": "xrp",
+    "label": 0,
+    "market_cap_rank": 6,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "purchase Bitcoin ETF related assets",
+    "query_id": 28190,
+    "item_id": "doge",
+    "label": 0,
+    "market_cap_rank": 9,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "purchase Bitcoin ETF related assets",
+    "query_id": 28190,
+    "item_id": "shib",
+    "label": 0,
+    "market_cap_rank": 16,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "purchase Bitcoin ETF related assets",
+    "query_id": 28190,
+    "item_id": "arb",
+    "label": 0,
+    "market_cap_rank": 30,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "purchase Bitcoin ETF related assets",
+    "query_id": 28190,
+    "item_id": "op",
+    "label": 0,
+    "market_cap_rank": 35,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "purchase Bitcoin ETF related assets",
+    "query_id": 28190,
+    "item_id": "near",
+    "label": 0,
+    "market_cap_rank": 22,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "cross chain interoperability protocols",
+    "query_id": 47276,
+    "item_id": "btc",
+    "label": 0,
+    "market_cap_rank": 1,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "cross chain interoperability protocols",
+    "query_id": 47276,
+    "item_id": "eth",
+    "label": 0,
+    "market_cap_rank": 2,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "cross chain interoperability protocols",
+    "query_id": 47276,
+    "item_id": "sol",
+    "label": 0,
+    "market_cap_rank": 5,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "cross chain interoperability protocols",
+    "query_id": 47276,
+    "item_id": "avax",
+    "label": 0,
+    "market_cap_rank": 12,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "cross chain interoperability protocols",
+    "query_id": 47276,
+    "item_id": "matic",
+    "label": 0,
+    "market_cap_rank": 15,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "cross chain interoperability protocols",
+    "query_id": 47276,
+    "item_id": "link",
+    "label": 0,
+    "market_cap_rank": 14,
+    "fee_score": 1,
+    "category_match": 0
+  },
+  {
+    "query": "cross chain interoperability protocols",
+    "query_id": 47276,
+    "item_id": "uni",
+    "label": 0,
+    "market_cap_rank": 20,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "cross chain interoperability protocols",
+    "query_id": 47276,
+    "item_id": "aave",
+    "label": 0,
+    "market_cap_rank": 45,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "cross chain interoperability protocols",
+    "query_id": 47276,
+    "item_id": "sand",
+    "label": 0,
+    "market_cap_rank": 80,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "cross chain interoperability protocols",
+    "query_id": 47276,
+    "item_id": "mana",
+    "label": 0,
+    "market_cap_rank": 95,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "cross chain interoperability protocols",
+    "query_id": 47276,
+    "item_id": "axs",
+    "label": 0,
+    "market_cap_rank": 110,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "cross chain interoperability protocols",
+    "query_id": 47276,
+    "item_id": "ada",
+    "label": 0,
+    "market_cap_rank": 8,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "cross chain interoperability protocols",
+    "query_id": 47276,
+    "item_id": "dot",
+    "label": 3,
+    "market_cap_rank": 11,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "cross chain interoperability protocols",
+    "query_id": 47276,
+    "item_id": "atom",
+    "label": 3,
+    "market_cap_rank": 25,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "cross chain interoperability protocols",
+    "query_id": 47276,
+    "item_id": "xrp",
+    "label": 0,
+    "market_cap_rank": 6,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "cross chain interoperability protocols",
+    "query_id": 47276,
+    "item_id": "doge",
+    "label": 0,
+    "market_cap_rank": 9,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "cross chain interoperability protocols",
+    "query_id": 47276,
+    "item_id": "shib",
+    "label": 0,
+    "market_cap_rank": 16,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "cross chain interoperability protocols",
+    "query_id": 47276,
+    "item_id": "arb",
+    "label": 0,
+    "market_cap_rank": 30,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "cross chain interoperability protocols",
+    "query_id": 47276,
+    "item_id": "op",
+    "label": 0,
+    "market_cap_rank": 35,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "cross chain interoperability protocols",
+    "query_id": 47276,
+    "item_id": "near",
+    "label": 0,
+    "market_cap_rank": 22,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "meme coins for speculation",
+    "query_id": 17206,
+    "item_id": "btc",
+    "label": 0,
+    "market_cap_rank": 1,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "meme coins for speculation",
+    "query_id": 17206,
+    "item_id": "eth",
+    "label": 0,
+    "market_cap_rank": 2,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "meme coins for speculation",
+    "query_id": 17206,
+    "item_id": "sol",
+    "label": 0,
+    "market_cap_rank": 5,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "meme coins for speculation",
+    "query_id": 17206,
+    "item_id": "avax",
+    "label": 0,
+    "market_cap_rank": 12,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "meme coins for speculation",
+    "query_id": 17206,
+    "item_id": "matic",
+    "label": 0,
+    "market_cap_rank": 15,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "meme coins for speculation",
+    "query_id": 17206,
+    "item_id": "link",
+    "label": 0,
+    "market_cap_rank": 14,
+    "fee_score": 1,
+    "category_match": 0
+  },
+  {
+    "query": "meme coins for speculation",
+    "query_id": 17206,
+    "item_id": "uni",
+    "label": 0,
+    "market_cap_rank": 20,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "meme coins for speculation",
+    "query_id": 17206,
+    "item_id": "aave",
+    "label": 0,
+    "market_cap_rank": 45,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "meme coins for speculation",
+    "query_id": 17206,
+    "item_id": "sand",
+    "label": 0,
+    "market_cap_rank": 80,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "meme coins for speculation",
+    "query_id": 17206,
+    "item_id": "mana",
+    "label": 0,
+    "market_cap_rank": 95,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "meme coins for speculation",
+    "query_id": 17206,
+    "item_id": "axs",
+    "label": 0,
+    "market_cap_rank": 110,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "meme coins for speculation",
+    "query_id": 17206,
+    "item_id": "ada",
+    "label": 0,
+    "market_cap_rank": 8,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "meme coins for speculation",
+    "query_id": 17206,
+    "item_id": "dot",
+    "label": 0,
+    "market_cap_rank": 11,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "meme coins for speculation",
+    "query_id": 17206,
+    "item_id": "atom",
+    "label": 0,
+    "market_cap_rank": 25,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "meme coins for speculation",
+    "query_id": 17206,
+    "item_id": "xrp",
+    "label": 0,
+    "market_cap_rank": 6,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "meme coins for speculation",
+    "query_id": 17206,
+    "item_id": "doge",
+    "label": 3,
+    "market_cap_rank": 9,
+    "fee_score": 3,
+    "category_match": 1
+  },
+  {
+    "query": "meme coins for speculation",
+    "query_id": 17206,
+    "item_id": "shib",
+    "label": 3,
+    "market_cap_rank": 16,
+    "fee_score": 3,
+    "category_match": 1
+  },
+  {
+    "query": "meme coins for speculation",
+    "query_id": 17206,
+    "item_id": "arb",
+    "label": 0,
+    "market_cap_rank": 30,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "meme coins for speculation",
+    "query_id": 17206,
+    "item_id": "op",
+    "label": 0,
+    "market_cap_rank": 35,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "meme coins for speculation",
+    "query_id": 17206,
+    "item_id": "near",
+    "label": 0,
+    "market_cap_rank": 22,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "Avalanche subnet enterprise blockchain",
+    "query_id": 73921,
+    "item_id": "btc",
+    "label": 0,
+    "market_cap_rank": 1,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "Avalanche subnet enterprise blockchain",
+    "query_id": 73921,
+    "item_id": "eth",
+    "label": 0,
+    "market_cap_rank": 2,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "Avalanche subnet enterprise blockchain",
+    "query_id": 73921,
+    "item_id": "sol",
+    "label": 0,
+    "market_cap_rank": 5,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "Avalanche subnet enterprise blockchain",
+    "query_id": 73921,
+    "item_id": "avax",
+    "label": 3,
+    "market_cap_rank": 12,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "Avalanche subnet enterprise blockchain",
+    "query_id": 73921,
+    "item_id": "matic",
+    "label": 0,
+    "market_cap_rank": 15,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "Avalanche subnet enterprise blockchain",
+    "query_id": 73921,
+    "item_id": "link",
+    "label": 0,
+    "market_cap_rank": 14,
+    "fee_score": 1,
+    "category_match": 0
+  },
+  {
+    "query": "Avalanche subnet enterprise blockchain",
+    "query_id": 73921,
+    "item_id": "uni",
+    "label": 0,
+    "market_cap_rank": 20,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "Avalanche subnet enterprise blockchain",
+    "query_id": 73921,
+    "item_id": "aave",
+    "label": 0,
+    "market_cap_rank": 45,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "Avalanche subnet enterprise blockchain",
+    "query_id": 73921,
+    "item_id": "sand",
+    "label": 0,
+    "market_cap_rank": 80,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "Avalanche subnet enterprise blockchain",
+    "query_id": 73921,
+    "item_id": "mana",
+    "label": 0,
+    "market_cap_rank": 95,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "Avalanche subnet enterprise blockchain",
+    "query_id": 73921,
+    "item_id": "axs",
+    "label": 0,
+    "market_cap_rank": 110,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "Avalanche subnet enterprise blockchain",
+    "query_id": 73921,
+    "item_id": "ada",
+    "label": 0,
+    "market_cap_rank": 8,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "Avalanche subnet enterprise blockchain",
+    "query_id": 73921,
+    "item_id": "dot",
+    "label": 0,
+    "market_cap_rank": 11,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "Avalanche subnet enterprise blockchain",
+    "query_id": 73921,
+    "item_id": "atom",
+    "label": 0,
+    "market_cap_rank": 25,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "Avalanche subnet enterprise blockchain",
+    "query_id": 73921,
+    "item_id": "xrp",
+    "label": 1,
+    "market_cap_rank": 6,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "Avalanche subnet enterprise blockchain",
+    "query_id": 73921,
+    "item_id": "doge",
+    "label": 0,
+    "market_cap_rank": 9,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "Avalanche subnet enterprise blockchain",
+    "query_id": 73921,
+    "item_id": "shib",
+    "label": 0,
+    "market_cap_rank": 16,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "Avalanche subnet enterprise blockchain",
+    "query_id": 73921,
+    "item_id": "arb",
+    "label": 0,
+    "market_cap_rank": 30,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "Avalanche subnet enterprise blockchain",
+    "query_id": 73921,
+    "item_id": "op",
+    "label": 0,
+    "market_cap_rank": 35,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "Avalanche subnet enterprise blockchain",
+    "query_id": 73921,
+    "item_id": "near",
+    "label": 0,
+    "market_cap_rank": 22,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "discover new DeFi DEX tokens",
+    "query_id": 71484,
+    "item_id": "btc",
+    "label": 0,
+    "market_cap_rank": 1,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "discover new DeFi DEX tokens",
+    "query_id": 71484,
+    "item_id": "eth",
+    "label": 1,
+    "market_cap_rank": 2,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "discover new DeFi DEX tokens",
+    "query_id": 71484,
+    "item_id": "sol",
+    "label": 0,
+    "market_cap_rank": 5,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "discover new DeFi DEX tokens",
+    "query_id": 71484,
+    "item_id": "avax",
+    "label": 1,
+    "market_cap_rank": 12,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "discover new DeFi DEX tokens",
+    "query_id": 71484,
+    "item_id": "matic",
+    "label": 0,
+    "market_cap_rank": 15,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "discover new DeFi DEX tokens",
+    "query_id": 71484,
+    "item_id": "link",
+    "label": 3,
+    "market_cap_rank": 14,
+    "fee_score": 1,
+    "category_match": 0
+  },
+  {
+    "query": "discover new DeFi DEX tokens",
+    "query_id": 71484,
+    "item_id": "uni",
+    "label": 3,
+    "market_cap_rank": 20,
+    "fee_score": 2,
+    "category_match": 1
+  },
+  {
+    "query": "discover new DeFi DEX tokens",
+    "query_id": 71484,
+    "item_id": "aave",
+    "label": 2,
+    "market_cap_rank": 45,
+    "fee_score": 2,
+    "category_match": 1
+  },
+  {
+    "query": "discover new DeFi DEX tokens",
+    "query_id": 71484,
+    "item_id": "sand",
+    "label": 0,
+    "market_cap_rank": 80,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "discover new DeFi DEX tokens",
+    "query_id": 71484,
+    "item_id": "mana",
+    "label": 0,
+    "market_cap_rank": 95,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "discover new DeFi DEX tokens",
+    "query_id": 71484,
+    "item_id": "axs",
+    "label": 0,
+    "market_cap_rank": 110,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "discover new DeFi DEX tokens",
+    "query_id": 71484,
+    "item_id": "ada",
+    "label": 0,
+    "market_cap_rank": 8,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "discover new DeFi DEX tokens",
+    "query_id": 71484,
+    "item_id": "dot",
+    "label": 0,
+    "market_cap_rank": 11,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "discover new DeFi DEX tokens",
+    "query_id": 71484,
+    "item_id": "atom",
+    "label": 0,
+    "market_cap_rank": 25,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "discover new DeFi DEX tokens",
+    "query_id": 71484,
+    "item_id": "xrp",
+    "label": 0,
+    "market_cap_rank": 6,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "discover new DeFi DEX tokens",
+    "query_id": 71484,
+    "item_id": "doge",
+    "label": 0,
+    "market_cap_rank": 9,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "discover new DeFi DEX tokens",
+    "query_id": 71484,
+    "item_id": "shib",
+    "label": 0,
+    "market_cap_rank": 16,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "discover new DeFi DEX tokens",
+    "query_id": 71484,
+    "item_id": "arb",
+    "label": 1,
+    "market_cap_rank": 30,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "discover new DeFi DEX tokens",
+    "query_id": 71484,
+    "item_id": "op",
+    "label": 1,
+    "market_cap_rank": 35,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "discover new DeFi DEX tokens",
+    "query_id": 71484,
+    "item_id": "near",
+    "label": 0,
+    "market_cap_rank": 22,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "Polygon gaming NFT low fee",
+    "query_id": 7907,
+    "item_id": "btc",
+    "label": 0,
+    "market_cap_rank": 1,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "Polygon gaming NFT low fee",
+    "query_id": 7907,
+    "item_id": "eth",
+    "label": 0,
+    "market_cap_rank": 2,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "Polygon gaming NFT low fee",
+    "query_id": 7907,
+    "item_id": "sol",
+    "label": 0,
+    "market_cap_rank": 5,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "Polygon gaming NFT low fee",
+    "query_id": 7907,
+    "item_id": "avax",
+    "label": 0,
+    "market_cap_rank": 12,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "Polygon gaming NFT low fee",
+    "query_id": 7907,
+    "item_id": "matic",
+    "label": 3,
+    "market_cap_rank": 15,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "Polygon gaming NFT low fee",
+    "query_id": 7907,
+    "item_id": "link",
+    "label": 0,
+    "market_cap_rank": 14,
+    "fee_score": 1,
+    "category_match": 0
+  },
+  {
+    "query": "Polygon gaming NFT low fee",
+    "query_id": 7907,
+    "item_id": "uni",
+    "label": 0,
+    "market_cap_rank": 20,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "Polygon gaming NFT low fee",
+    "query_id": 7907,
+    "item_id": "aave",
+    "label": 0,
+    "market_cap_rank": 45,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "Polygon gaming NFT low fee",
+    "query_id": 7907,
+    "item_id": "sand",
+    "label": 3,
+    "market_cap_rank": 80,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "Polygon gaming NFT low fee",
+    "query_id": 7907,
+    "item_id": "mana",
+    "label": 1,
+    "market_cap_rank": 95,
+    "fee_score": 2,
+    "category_match": 0
+  },
+  {
+    "query": "Polygon gaming NFT low fee",
+    "query_id": 7907,
+    "item_id": "axs",
+    "label": 2,
+    "market_cap_rank": 110,
+    "fee_score": 3,
+    "category_match": 1
+  },
+  {
+    "query": "Polygon gaming NFT low fee",
+    "query_id": 7907,
+    "item_id": "ada",
+    "label": 0,
+    "market_cap_rank": 8,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "Polygon gaming NFT low fee",
+    "query_id": 7907,
+    "item_id": "dot",
+    "label": 0,
+    "market_cap_rank": 11,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "Polygon gaming NFT low fee",
+    "query_id": 7907,
+    "item_id": "atom",
+    "label": 0,
+    "market_cap_rank": 25,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "Polygon gaming NFT low fee",
+    "query_id": 7907,
+    "item_id": "xrp",
+    "label": 0,
+    "market_cap_rank": 6,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "Polygon gaming NFT low fee",
+    "query_id": 7907,
+    "item_id": "doge",
+    "label": 0,
+    "market_cap_rank": 9,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "Polygon gaming NFT low fee",
+    "query_id": 7907,
+    "item_id": "shib",
+    "label": 0,
+    "market_cap_rank": 16,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "Polygon gaming NFT low fee",
+    "query_id": 7907,
+    "item_id": "arb",
+    "label": 0,
+    "market_cap_rank": 30,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "Polygon gaming NFT low fee",
+    "query_id": 7907,
+    "item_id": "op",
+    "label": 0,
+    "market_cap_rank": 35,
+    "fee_score": 3,
+    "category_match": 0
+  },
+  {
+    "query": "Polygon gaming NFT low fee",
+    "query_id": 7907,
+    "item_id": "near",
+    "label": 0,
+    "market_cap_rank": 22,
+    "fee_score": 3,
+    "category_match": 0
+  }
+]

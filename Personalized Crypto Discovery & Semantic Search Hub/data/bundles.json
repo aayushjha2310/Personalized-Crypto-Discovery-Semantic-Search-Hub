@@ -1,0 +1,74 @@
+[
+  {
+    "id": "b1",
+    "name": "Crypto Kuber DeFi Pack",
+    "description": "Curated bundle of top DeFi tokens including UNI, AAVE, and LINK for yield and DEX exposure.",
+    "token_ids": [
+      "uni",
+      "aave",
+      "link"
+    ],
+    "risk_level": "medium",
+    "theme": "DeFi"
+  },
+  {
+    "id": "b2",
+    "name": "Crypto Kuber Metaverse Pack",
+    "description": "Trending metaverse coins bundle with SAND, MANA, and AXS for virtual world and gaming exposure.",
+    "token_ids": [
+      "sand",
+      "mana",
+      "axs"
+    ],
+    "risk_level": "high",
+    "theme": "Metaverse"
+  },
+  {
+    "id": "b3",
+    "name": "Crypto Kuber Layer 1 Pack",
+    "description": "Low-fee Layer 1 tokens for smart contracts: SOL, NEAR, AVAX, and ADA.",
+    "token_ids": [
+      "sol",
+      "near",
+      "avax",
+      "ada"
+    ],
+    "risk_level": "medium",
+    "theme": "Layer1"
+  },
+  {
+    "id": "b4",
+    "name": "Crypto Kuber Blue Chip Pack",
+    "description": "Conservative bundle of BTC, ETH, and XRP for long-term portfolio stability.",
+    "token_ids": [
+      "btc",
+      "eth",
+      "xrp"
+    ],
+    "risk_level": "low",
+    "theme": "BlueChip"
+  },
+  {
+    "id": "b5",
+    "name": "Crypto Kuber Layer 2 Pack",
+    "description": "Ethereum scaling tokens ARB, OP, and MATIC for low-fee DeFi activity.",
+    "token_ids": [
+      "arb",
+      "op",
+      "matic"
+    ],
+    "risk_level": "medium",
+    "theme": "Layer2"
+  },
+  {
+    "id": "b6",
+    "name": "Crypto Kuber Meme Pack",
+    "description": "High-risk meme coin bundle with DOGE and SHIB for speculative trading.",
+    "token_ids": [
+      "doge",
+      "shib"
+    ],
+    "risk_level": "high",
+    "theme": "Meme"
+  }
+]

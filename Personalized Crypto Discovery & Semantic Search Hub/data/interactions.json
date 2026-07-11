@@ -1,0 +1,650 @@
+[
+  {
+    "user_id": "u1",
+    "item_id": "xrp",
+    "item_type": "token",
+    "clicked": 1,
+    "traded": 1,
+    "risk_appetite": 0,
+    "trading_frequency": 3
+  },
+  {
+    "user_id": "u1",
+    "item_id": "b3",
+    "item_type": "bundle",
+    "clicked": 1,
+    "traded": 1,
+    "risk_appetite": 0,
+    "trading_frequency": 3
+  },
+  {
+    "user_id": "u1",
+    "item_id": "near",
+    "item_type": "token",
+    "clicked": 1,
+    "traded": 1,
+    "risk_appetite": 0,
+    "trading_frequency": 3
+  },
+  {
+    "user_id": "u1",
+    "item_id": "n14",
+    "item_type": "news",
+    "clicked": 0,
+    "traded": 0,
+    "risk_appetite": 0,
+    "trading_frequency": 3
+  },
+  {
+    "user_id": "u2",
+    "item_id": "b4",
+    "item_type": "bundle",
+    "clicked": 1,
+    "traded": 1,
+    "risk_appetite": 2,
+    "trading_frequency": 15
+  },
+  {
+    "user_id": "u2",
+    "item_id": "b1",
+    "item_type": "bundle",
+    "clicked": 1,
+    "traded": 1,
+    "risk_appetite": 2,
+    "trading_frequency": 15
+  },
+  {
+    "user_id": "u2",
+    "item_id": "b2",
+    "item_type": "bundle",
+    "clicked": 1,
+    "traded": 1,
+    "risk_appetite": 2,
+    "trading_frequency": 15
+  },
+  {
+    "user_id": "u2",
+    "item_id": "b2",
+    "item_type": "bundle",
+    "clicked": 1,
+    "traded": 0,
+    "risk_appetite": 2,
+    "trading_frequency": 15
+  },
+  {
+    "user_id": "u2",
+    "item_id": "sol",
+    "item_type": "token",
+    "clicked": 1,
+    "traded": 0,
+    "risk_appetite": 2,
+    "trading_frequency": 15
+  },
+  {
+    "user_id": "u2",
+    "item_id": "mana",
+    "item_type": "token",
+    "clicked": 1,
+    "traded": 0,
+    "risk_appetite": 2,
+    "trading_frequency": 15
+  },
+  {
+    "user_id": "u2",
+    "item_id": "b6",
+    "item_type": "bundle",
+    "clicked": 1,
+    "traded": 0,
+    "risk_appetite": 2,
+    "trading_frequency": 15
+  },
+  {
+    "user_id": "u2",
+    "item_id": "mana",
+    "item_type": "token",
+    "clicked": 1,
+    "traded": 0,
+    "risk_appetite": 2,
+    "trading_frequency": 15
+  },
+  {
+    "user_id": "u2",
+    "item_id": "sol",
+    "item_type": "token",
+    "clicked": 1,
+    "traded": 0,
+    "risk_appetite": 2,
+    "trading_frequency": 15
+  },
+  {
+    "user_id": "u2",
+    "item_id": "b2",
+    "item_type": "bundle",
+    "clicked": 1,
+    "traded": 1,
+    "risk_appetite": 2,
+    "trading_frequency": 15
+  },
+  {
+    "user_id": "u2",
+    "item_id": "n15",
+    "item_type": "news",
+    "clicked": 1,
+    "traded": 1,
+    "risk_appetite": 2,
+    "trading_frequency": 15
+  },
+  {
+    "user_id": "u2",
+    "item_id": "n15",
+    "item_type": "news",
+    "clicked": 1,
+    "traded": 0,
+    "risk_appetite": 2,
+    "trading_frequency": 15
+  },
+  {
+    "user_id": "u2",
+    "item_id": "b1",
+    "item_type": "bundle",
+    "clicked": 1,
+    "traded": 0,
+    "risk_appetite": 2,
+    "trading_frequency": 15
+  },
+  {
+    "user_id": "u2",
+    "item_id": "n3",
+    "item_type": "news",
+    "clicked": 1,
+    "traded": 1,
+    "risk_appetite": 2,
+    "trading_frequency": 15
+  },
+  {
+    "user_id": "u2",
+    "item_id": "mana",
+    "item_type": "token",
+    "clicked": 1,
+    "traded": 0,
+    "risk_appetite": 2,
+    "trading_frequency": 15
+  },
+  {
+    "user_id": "u2",
+    "item_id": "uni",
+    "item_type": "token",
+    "clicked": 0,
+    "traded": 0,
+    "risk_appetite": 2,
+    "trading_frequency": 15
+  },
+  {
+    "user_id": "u2",
+    "item_id": "b1",
+    "item_type": "bundle",
+    "clicked": 0,
+    "traded": 0,
+    "risk_appetite": 2,
+    "trading_frequency": 15
+  },
+  {
+    "user_id": "u2",
+    "item_id": "b6",
+    "item_type": "bundle",
+    "clicked": 0,
+    "traded": 0,
+    "risk_appetite": 2,
+    "trading_frequency": 15
+  },
+  {
+    "user_id": "u2",
+    "item_id": "uni",
+    "item_type": "token",
+    "clicked": 0,
+    "traded": 0,
+    "risk_appetite": 2,
+    "trading_frequency": 15
+  },
+  {
+    "user_id": "u2",
+    "item_id": "n9",
+    "item_type": "news",
+    "clicked": 0,
+    "traded": 0,
+    "risk_appetite": 2,
+    "trading_frequency": 15
+  },
+  {
+    "user_id": "u2",
+    "item_id": "axs",
+    "item_type": "token",
+    "clicked": 0,
+    "traded": 0,
+    "risk_appetite": 2,
+    "trading_frequency": 15
+  },
+  {
+    "user_id": "u2",
+    "item_id": "b5",
+    "item_type": "bundle",
+    "clicked": 0,
+    "traded": 0,
+    "risk_appetite": 2,
+    "trading_frequency": 15
+  },
+  {
+    "user_id": "u3",
+    "item_id": "b1",
+    "item_type": "bundle",
+    "clicked": 1,
+    "traded": 0,
+    "risk_appetite": 1,
+    "trading_frequency": 8
+  },
+  {
+    "user_id": "u3",
+    "item_id": "aave",
+    "item_type": "token",
+    "clicked": 1,
+    "traded": 0,
+    "risk_appetite": 1,
+    "trading_frequency": 8
+  },
+  {
+    "user_id": "u3",
+    "item_id": "eth",
+    "item_type": "token",
+    "clicked": 1,
+    "traded": 1,
+    "risk_appetite": 1,
+    "trading_frequency": 8
+  },
+  {
+    "user_id": "u3",
+    "item_id": "link",
+    "item_type": "token",
+    "clicked": 1,
+    "traded": 1,
+    "risk_appetite": 1,
+    "trading_frequency": 8
+  },
+  {
+    "user_id": "u3",
+    "item_id": "sol",
+    "item_type": "token",
+    "clicked": 1,
+    "traded": 1,
+    "risk_appetite": 1,
+    "trading_frequency": 8
+  },
+  {
+    "user_id": "u3",
+    "item_id": "n7",
+    "item_type": "news",
+    "clicked": 1,
+    "traded": 0,
+    "risk_appetite": 1,
+    "trading_frequency": 8
+  },
+  {
+    "user_id": "u3",
+    "item_id": "link",
+    "item_type": "token",
+    "clicked": 1,
+    "traded": 0,
+    "risk_appetite": 1,
+    "trading_frequency": 8
+  },
+  {
+    "user_id": "u3",
+    "item_id": "aave",
+    "item_type": "token",
+    "clicked": 1,
+    "traded": 0,
+    "risk_appetite": 1,
+    "trading_frequency": 8
+  },
+  {
+    "user_id": "u3",
+    "item_id": "sol",
+    "item_type": "token",
+    "clicked": 0,
+    "traded": 0,
+    "risk_appetite": 1,
+    "trading_frequency": 8
+  },
+  {
+    "user_id": "u3",
+    "item_id": "avax",
+    "item_type": "token",
+    "clicked": 0,
+    "traded": 0,
+    "risk_appetite": 1,
+    "trading_frequency": 8
+  },
+  {
+    "user_id": "u3",
+    "item_id": "n4",
+    "item_type": "news",
+    "clicked": 0,
+    "traded": 0,
+    "risk_appetite": 1,
+    "trading_frequency": 8
+  },
+  {
+    "user_id": "u3",
+    "item_id": "op",
+    "item_type": "token",
+    "clicked": 0,
+    "traded": 0,
+    "risk_appetite": 1,
+    "trading_frequency": 8
+  },
+  {
+    "user_id": "u4",
+    "item_id": "eth",
+    "item_type": "token",
+    "clicked": 1,
+    "traded": 1,
+    "risk_appetite": 1,
+    "trading_frequency": 15
+  },
+  {
+    "user_id": "u4",
+    "item_id": "matic",
+    "item_type": "token",
+    "clicked": 1,
+    "traded": 0,
+    "risk_appetite": 1,
+    "trading_frequency": 15
+  },
+  {
+    "user_id": "u4",
+    "item_id": "n4",
+    "item_type": "news",
+    "clicked": 1,
+    "traded": 1,
+    "risk_appetite": 1,
+    "trading_frequency": 15
+  },
+  {
+    "user_id": "u4",
+    "item_id": "b3",
+    "item_type": "bundle",
+    "clicked": 1,
+    "traded": 1,
+    "risk_appetite": 1,
+    "trading_frequency": 15
+  },
+  {
+    "user_id": "u4",
+    "item_id": "arb",
+    "item_type": "token",
+    "clicked": 1,
+    "traded": 1,
+    "risk_appetite": 1,
+    "trading_frequency": 15
+  },
+  {
+    "user_id": "u4",
+    "item_id": "matic",
+    "item_type": "token",
+    "clicked": 1,
+    "traded": 0,
+    "risk_appetite": 1,
+    "trading_frequency": 15
+  },
+  {
+    "user_id": "u4",
+    "item_id": "matic",
+    "item_type": "token",
+    "clicked": 1,
+    "traded": 0,
+    "risk_appetite": 1,
+    "trading_frequency": 15
+  },
+  {
+    "user_id": "u4",
+    "item_id": "avax",
+    "item_type": "token",
+    "clicked": 1,
+    "traded": 1,
+    "risk_appetite": 1,
+    "trading_frequency": 15
+  },
+  {
+    "user_id": "u4",
+    "item_id": "avax",
+    "item_type": "token",
+    "clicked": 1,
+    "traded": 1,
+    "risk_appetite": 1,
+    "trading_frequency": 15
+  },
+  {
+    "user_id": "u4",
+    "item_id": "axs",
+    "item_type": "token",
+    "clicked": 1,
+    "traded": 0,
+    "risk_appetite": 1,
+    "trading_frequency": 15
+  },
+  {
+    "user_id": "u4",
+    "item_id": "matic",
+    "item_type": "token",
+    "clicked": 1,
+    "traded": 0,
+    "risk_appetite": 1,
+    "trading_frequency": 15
+  },
+  {
+    "user_id": "u4",
+    "item_id": "matic",
+    "item_type": "token",
+    "clicked": 1,
+    "traded": 0,
+    "risk_appetite": 1,
+    "trading_frequency": 15
+  },
+  {
+    "user_id": "u4",
+    "item_id": "matic",
+    "item_type": "token",
+    "clicked": 1,
+    "traded": 1,
+    "risk_appetite": 1,
+    "trading_frequency": 15
+  },
+  {
+    "user_id": "u4",
+    "item_id": "matic",
+    "item_type": "token",
+    "clicked": 1,
+    "traded": 0,
+    "risk_appetite": 1,
+    "trading_frequency": 15
+  },
+  {
+    "user_id": "u4",
+    "item_id": "eth",
+    "item_type": "token",
+    "clicked": 1,
+    "traded": 0,
+    "risk_appetite": 1,
+    "trading_frequency": 15
+  },
+  {
+    "user_id": "u4",
+    "item_id": "n15",
+    "item_type": "news",
+    "clicked": 0,
+    "traded": 0,
+    "risk_appetite": 1,
+    "trading_frequency": 15
+  },
+  {
+    "user_id": "u4",
+    "item_id": "n8",
+    "item_type": "news",
+    "clicked": 0,
+    "traded": 0,
+    "risk_appetite": 1,
+    "trading_frequency": 15
+  },
+  {
+    "user_id": "u4",
+    "item_id": "n15",
+    "item_type": "news",
+    "clicked": 0,
+    "traded": 0,
+    "risk_appetite": 1,
+    "trading_frequency": 15
+  },
+  {
+    "user_id": "u4",
+    "item_id": "n5",
+    "item_type": "news",
+    "clicked": 0,
+    "traded": 0,
+    "risk_appetite": 1,
+    "trading_frequency": 15
+  },
+  {
+    "user_id": "u4",
+    "item_id": "xrp",
+    "item_type": "token",
+    "clicked": 0,
+    "traded": 0,
+    "risk_appetite": 1,
+    "trading_frequency": 15
+  },
+  {
+    "user_id": "u4",
+    "item_id": "doge",
+    "item_type": "token",
+    "clicked": 0,
+    "traded": 0,
+    "risk_appetite": 1,
+    "trading_frequency": 15
+  },
+  {
+    "user_id": "u4",
+    "item_id": "n10",
+    "item_type": "news",
+    "clicked": 0,
+    "traded": 0,
+    "risk_appetite": 1,
+    "trading_frequency": 15
+  },
+  {
+    "user_id": "u5",
+    "item_id": "b3",
+    "item_type": "bundle",
+    "clicked": 1,
+    "traded": 0,
+    "risk_appetite": 2,
+    "trading_frequency": 8
+  },
+  {
+    "user_id": "u5",
+    "item_id": "n14",
+    "item_type": "news",
+    "clicked": 1,
+    "traded": 0,
+    "risk_appetite": 2,
+    "trading_frequency": 8
+  },
+  {
+    "user_id": "u5",
+    "item_id": "shib",
+    "item_type": "token",
+    "clicked": 1,
+    "traded": 1,
+    "risk_appetite": 2,
+    "trading_frequency": 8
+  },
+  {
+    "user_id": "u5",
+    "item_id": "axs",
+    "item_type": "token",
+    "clicked": 1,
+    "traded": 0,
+    "risk_appetite": 2,
+    "trading_frequency": 8
+  },
+  {
+    "user_id": "u5",
+    "item_id": "b5",
+    "item_type": "bundle",
+    "clicked": 1,
+    "traded": 0,
+    "risk_appetite": 2,
+    "trading_frequency": 8
+  },
+  {
+    "user_id": "u5",
+    "item_id": "b6",
+    "item_type": "bundle",
+    "clicked": 1,
+    "traded": 1,
+    "risk_appetite": 2,
+    "trading_frequency": 8
+  },
+  {
+    "user_id": "u5",
+    "item_id": "b3",
+    "item_type": "bundle",
+    "clicked": 1,
+    "traded": 1,
+    "risk_appetite": 2,
+    "trading_frequency": 8
+  },
+  {
+    "user_id": "u5",
+    "item_id": "doge",
+    "item_type": "token",
+    "clicked": 1,
+    "traded": 1,
+    "risk_appetite": 2,
+    "trading_frequency": 8
+  },
+  {
+    "user_id": "u5",
+    "item_id": "n2",
+    "item_type": "news",
+    "clicked": 0,
+    "traded": 0,
+    "risk_appetite": 2,
+    "trading_frequency": 8
+  },
+  {
+    "user_id": "u5",
+    "item_id": "n10",
+    "item_type": "news",
+    "clicked": 0,
+    "traded": 0,
+    "risk_appetite": 2,
+    "trading_frequency": 8
+  },
+  {
+    "user_id": "u5",
+    "item_id": "atom",
+    "item_type": "token",
+    "clicked": 0,
+    "traded": 0,
+    "risk_appetite": 2,
+    "trading_frequency": 8
+  },
+  {
+    "user_id": "u5",
+    "item_id": "n14",
+    "item_type": "news",
+    "clicked": 0,
+    "traded": 0,
+    "risk_appetite": 2,
+    "trading_frequency": 8
+  }
+]

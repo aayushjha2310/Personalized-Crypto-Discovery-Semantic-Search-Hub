@@ -1,0 +1,178 @@
+[
+  {
+    "query": "low fee Layer 1 tokens for smart contracts",
+    "intent": "transactional",
+    "relevant_tokens": [
+      "sol",
+      "near",
+      "avax",
+      "ada"
+    ],
+    "relevant_news": [
+      "n4",
+      "n18"
+    ]
+  },
+  {
+    "query": "trending metaverse coins",
+    "intent": "exploratory",
+    "relevant_tokens": [
+      "sand",
+      "mana",
+      "axs",
+      "shib"
+    ],
+    "relevant_news": [
+      "n3",
+      "n9",
+      "n15"
+    ]
+  },
+  {
+    "query": "what is Ethereum DeFi TVL",
+    "intent": "informational",
+    "relevant_tokens": [
+      "eth",
+      "uni",
+      "aave"
+    ],
+    "relevant_news": [
+      "n1",
+      "n7",
+      "n11"
+    ]
+  },
+  {
+    "query": "buy DeFi lending tokens",
+    "intent": "transactional",
+    "relevant_tokens": [
+      "aave",
+      "uni",
+      "link"
+    ],
+    "relevant_news": [
+      "n7",
+      "n16"
+    ]
+  },
+  {
+    "query": "crypto regulation news today",
+    "intent": "informational",
+    "relevant_tokens": [],
+    "relevant_news": [
+      "n2",
+      "n8",
+      "n17"
+    ]
+  },
+  {
+    "query": "best NFT marketplace tokens",
+    "intent": "exploratory",
+    "relevant_tokens": [
+      "sand",
+      "mana"
+    ],
+    "relevant_news": [
+      "n5",
+      "n12",
+      "n19"
+    ]
+  },
+  {
+    "query": "Layer 2 rollup tokens with low gas",
+    "intent": "transactional",
+    "relevant_tokens": [
+      "arb",
+      "op",
+      "matic"
+    ],
+    "relevant_news": [
+      "n14"
+    ]
+  },
+  {
+    "query": "how does Chainlink oracle work",
+    "intent": "informational",
+    "relevant_tokens": [
+      "link"
+    ],
+    "relevant_news": [
+      "n16"
+    ]
+  },
+  {
+    "query": "explore gaming play to earn coins",
+    "intent": "exploratory",
+    "relevant_tokens": [
+      "axs",
+      "sand",
+      "mana"
+    ],
+    "relevant_news": [
+      "n9"
+    ]
+  },
+  {
+    "query": "purchase Bitcoin ETF related assets",
+    "intent": "transactional",
+    "relevant_tokens": [
+      "btc",
+      "eth"
+    ],
+    "relevant_news": [
+      "n6"
+    ]
+  },
+  {
+    "query": "cross chain interoperability protocols",
+    "intent": "informational",
+    "relevant_tokens": [
+      "dot",
+      "atom"
+    ],
+    "relevant_news": [
+      "n13"
+    ]
+  },
+  {
+    "query": "meme coins for speculation",
+    "intent": "transactional",
+    "relevant_tokens": [
+      "doge",
+      "shib"
+    ],
+    "relevant_news": []
+  },
+  {
+    "query": "Avalanche subnet enterprise blockchain",
+    "intent": "informational",
+    "relevant_tokens": [
+      "avax"
+    ],
+    "relevant_news": [
+      "n10"
+    ]
+  },
+  {
+    "query": "discover new DeFi DEX tokens",
+    "intent": "exploratory",
+    "relevant_tokens": [
+      "uni",
+      "link"
+    ],
+    "relevant_news": [
+      "n11"
+    ]
+  },
+  {
+    "query": "Polygon gaming NFT low fee",
+    "intent": "transactional",
+    "relevant_tokens": [
+      "matic",
+      "sand"
+    ],
+    "relevant_news": [
+      "n12"
+    ]
+  }
+]
